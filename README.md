@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/128626501/226986097-69db2c7c-b88e-4e67-b880-9ff4503f4c04.png" alt= “logo1” height="100">
+
 <img src="https://www.cayetano.edu.pe/cayetano/images/2018/Logo_Oficial.png" alt= “logo2” height="100">
 
 # Introducción a Señales Biomédicas - Grupo 3
