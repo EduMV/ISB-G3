@@ -1,11 +1,13 @@
 
-<img src="https://www.cayetano.edu.pe/cayetano/images/2018/Logo_Oficial.png" alt= “logo2” height="100">
+<img src="https://www.cayetano.edu.pe/cayetano/images/2018/Logo_Oficial.png" alt= “logo1” height="100">
 
 # 📈📉 Introducción a Señales Biomédicas - Grupo 3
 
 Las señales biomédicas representan una gran herramienta para monitorizar la salud de los pacientes así como tratar enfermedades y mejorar las condiciones de salud y vida. En la actualidad existen diferentes instrumentos que otorgan un acceso metrológico a estas señales lo que permite la evaluación de diferentes condiciones. Estos rasgos son indispensables como objetivo de desarrollo en los ámbitos médicos actuales  por lo que su investigación tecnológica posee una gran importancia de desarrollo en salud. 
 
 Somos un grupo de estudiantes de la carrera de Ingeniería Biomédica de la Pontificia Universidad Católica del Perú y la Universidad Peruana Cayetano Heredia con mucho interés en aprender sobre cómo funcionan los equipos de medición de señales biomédicas, cómo se procesa la información y cómo se pueden aplicar en diferentes campos de la medicina.
+
+<img src="https://media.tenor.com/0XjJbBPcNocAAAAM/heartbeat-pulse.gif" alt= “logo2” height="100">
 
 ## Integrantes:
 
