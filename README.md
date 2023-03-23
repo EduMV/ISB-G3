@@ -18,7 +18,7 @@ Estudiante de la carrera de Ingeniería Biomédica con aptitudes para el trabajo
 Estudiante de Ingeniería Biomédica con interés en la rama de Señales e Imágenes Biomédicas. Aptitudes para el desarrollo de software y diseño electrónico aplicados a la tecnología en salud.
 
 ### Maria Miranda:
-Estudiante de Ingeniería Biomédica cursando el séptimo ciclo de la carrera con especial interés en la rama de Ingeniería Clínica y aptitudes para el trabajo en equipo y la organización, ademas de la programación.
+Estudiante de Ingeniería Biomédica cursando el séptimo ciclo de la carrera con especial interés en la rama de Ingeniería Clínica y aptitudes para el trabajo en equipo y la organización, ademas de la programación.  
 
 ### Fernando Panduro: 
 Estudiante de 
