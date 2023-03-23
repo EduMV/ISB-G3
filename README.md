@@ -21,7 +21,8 @@ Estudiante de Ingeniería Biomédica con interés en la rama de Señales e Imág
 Estudiante de Ingeniería Biomédica cursando el séptimo ciclo de la carrera con especial interés en la rama de Ingeniería Clínica y aptitudes para el trabajo en equipo y la organización, ademas de la programación.
 
 ### Fernando Panduro: 
-Estudiante de Ingeniería Biomédica con particular interés en la Ingeniería Clínica, Arquitectura e Ingeniería Hospitalaria, y Gestión de Tecnologías en Salud. Cuento con aptitudes para la investigación, el trabajo en equipo y desarrollo de conocimientos. 
+Estudiante de 
+Ingeniería Biomédica con particular interés en la Ingeniería Clínica, Arquitectura e Ingeniería Hospitalaria, y Gestión de Tecnologías en Salud. Cuento con aptitudes para la investigación, el trabajo en equipo y desarrollo de conocimientos. 
 
 ### Fernanda Ramirez:
 Estudiante de Ingeniería Biomédica interesada en las ramas de Ingeniería de tejidos e Ingeniería Clínica. Motivada a ser parte del cambio en el sector salud a través de la creación de nuevas alternativas rápidas, eficaces y que puedan ser económicamente accesibles para más personas.
