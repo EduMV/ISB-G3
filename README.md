@@ -7,7 +7,7 @@ Las señales biomédicas representan una gran herramienta para monitorizar la sa
 
 Somos un grupo de estudiantes de la carrera de Ingeniería Biomédica de la Pontificia Universidad Católica del Perú y la Universidad Peruana Cayetano Heredia con mucho interés en aprender sobre cómo funcionan los equipos de medición de señales biomédicas, cómo se procesa la información y cómo se pueden aplicar en diferentes campos de la medicina.
 
-<img src="https://media.tenor.com/0XjJbBPcNocAAAAM/heartbeat-pulse.gif" alt= “logo2” height="150" width="1000">
+<img src="https://cainvas-static.s3.amazonaws.com/media/user_data/cainvas-admin/heart-beat-anomaly.gif" alt= “logo2” height="150" width="700">
 
 ## Integrantes:
 
@@ -29,3 +29,6 @@ Estudiante de Ingeniería Biomédica interesada en las ramas de Ingeniería de t
 ### Ximena Roldán:
 Estudiante de ingeniería biomédica aspira poder cambiar el sistema de salud de su país en la rama de Ingeniería clínica.
 
+## Foto grupal
+
+<img src="foto_grupal.jpeg" alt= “logo2” height="450">
