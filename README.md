@@ -4,14 +4,14 @@
 # 📈📉 Introducción a Señales Biomédicas - Grupo 3
 
 ## Tabla de contenidos:
-* [Señales Biomédicas](https://github.com/EduMV/ISB-G3/edit/main/README.md#se%C3%B1ales-biom%C3%A9dicas)
-* [Recursos](https://github.com/EduMV/ISB-G3/edit/main/README.md#recursos)
-* [Temática del proyecto](https://github.com/EduMV/ISB-G3/edit/main/README.md#tem%C3%A1tica-del-proyecto)
-* [Curso de Introducción a Señales Biomédicas](https://github.com/EduMV/ISB-G3/edit/main/README.md#curso-de-introducci%C3%B3n-a-se%C3%B1ales-biom%C3%A9dicas)
-* [Nosotros](https://github.com/EduMV/ISB-G3/edit/main/README.md#nosotros)
-* [Integrantes](https://github.com/EduMV/ISB-G3/edit/main/README.md#integrantes)
-* [Foto grupal](https://github.com/EduMV/ISB-G3/edit/main/README.md#foto-grupal)
-* [Docentes del curso](https://github.com/EduMV/ISB-G3/edit/main/README.md#docentes-del-curso)
+* [Señales Biomédicas](https://github.com/EduMV/ISB-G3#se%C3%B1ales-biom%C3%A9dicas)
+* [Recursos](https://github.com/EduMV/ISB-G3#recursos)
+* [Temática del proyecto](https://github.com/EduMV/ISB-G3#tem%C3%A1tica-del-proyecto)
+* [Curso de Introducción a Señales Biomédicas](https://github.com/EduMV/ISB-G3#curso-de-introducci%C3%B3n-a-se%C3%B1ales-biom%C3%A9dicas)
+* [Nosotros](https://github.com/EduMV/ISB-G3#nosotros)
+* [Integrantes](https://github.com/EduMV/ISB-G3#integrantes)
+* [Foto grupal](https://github.com/EduMV/ISB-G3#foto-grupal)
+* [Docentes del curso](https://github.com/EduMV/ISB-G3#docentes-del-curso)
 
 # 
 ### Señales Biomédicas
