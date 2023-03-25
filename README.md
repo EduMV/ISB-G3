@@ -8,8 +8,8 @@
 * [Curso de Introducción a Señales Biomédicas](https://github.com/EduMV/ISB-G3/blob/main/README.md#curso-de-introducci%C3%B3n-a-se%C3%B1ales-biom%C3%A9dicas)
 * [Unidades del curso](https://github.com/EduMV/ISB-G3/blob/main/README.md#unidades-del-curso)
 * [Nosotros](https://github.com/EduMV/ISB-G3/blob/main/README.md#nosotros)
-* [Integrantes](https://github.com/EduMV/ISB-G3/edit/main/README.md#integrantes)
-* [Foto grupal](https://github.com/EduMV/ISB-G3/edit/main/README.md#foto-grupal)
+* [Integrantes](https://github.com/EduMV/ISB-G3/blob/main/README.md#integrantes)
+* [Foto grupal](https://github.com/EduMV/ISB-G3/blob/main/README.md#foto-grupal)
 
 # 
 ### Señales Biomédicas
