@@ -5,14 +5,29 @@
 
 ## Tabla de contenidos:
 * Señales Biomédicas
+* Curso de Introducción a Señales Biomédicas
+* Unidades del curso
 * Nosotros
 * Integrantes
+
 
 # 
 ### Señales Biomédicas
 Las señales biomédicas representan una gran herramienta para monitorizar la salud de los pacientes así como tratar enfermedades y mejorar las condiciones de salud y vida. En la actualidad existen diferentes instrumentos que otorgan un acceso metrológico a estas señales lo que permite la evaluación de diferentes condiciones. Estos rasgos son indispensables como objetivo de desarrollo en los ámbitos médicos actuales  por lo que su investigación tecnológica posee una gran importancia de desarrollo en salud. 
 # 
 
+### Curso de Introducción a Señales Biomédicas
+Este curso desarrollará los conocimientos necesarios para el tratamiento de señales provenientes de dispositivos médicos. Se abordaron temas como: el estudio de los sensores, la tecnología de adquisición, los procesos clínicos en los que se dan y protocolos que se usan para compartir la información entre los diferentes equipos que brindan señales. Las clases se desarrollarán en un laboratorio donde se complementará la teoría brindada con simulaciones en computadora utilizando programas desarrollados en Python y kits de desarrollo para la adquisición de bioseñales.
+
+# 
+
+### Unidades del curso
+1. Introducción, adquisición y principios fisiológicos de las señales biomédicas
+2. Análisis de ECG, EMG y EEG
+3. Introducción al tratamiento digital de señales
+4. Informática biomédica e introducción a la inteligencia artificial en señales biomédicas
+
+# 
 ### Nosotros
 Somos un grupo de estudiantes de la carrera de Ingeniería Biomédica de la Pontificia Universidad Católica del Perú y la Universidad Peruana Cayetano Heredia con mucho interés en aprender sobre cómo funcionan los equipos de medición de señales biomédicas, cómo se procesa la información y cómo se pueden aplicar en diferentes campos de la medicina.
 
