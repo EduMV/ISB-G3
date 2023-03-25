@@ -68,7 +68,7 @@
 
 #
 ### Recursos
-| Material             | Imagen referencial                                              |
+| Materiales             | Imagen referencial                                              |
 | ----------------- | ------------------------------------------------------------------ |
 | <p align="justify"> *Arduino nano 33 loT* es una placa de desarrollo de tamaño reducido que integra capacidades de conectividad inalámbrica, procesamiento de datos y sensores, diseñada para proyectos de Internet de las cosas (IoT) que requieren baja potencia y alta eficiencia energética.| <img src="https://cdn.shopify.com/s/files/1/0506/1689/3647/products/ABX00030_03.front_934x700.jpg?v=1626445244" alt= “logo1” height="200" width="400"> |
 | <p align="justify"> *Ultracortex "Mark IV" EEG Headset* es un dispositivo portátil que se coloca en la cabeza para medir la actividad eléctrica del cerebro y permitir la monitorización y análisis de las ondas cerebrales en tiempo real.| <img src="https://docs.openbci.com/assets/images/UCM4-Product-2-28967dab0bd940f3b3fe67d2c7d9fcdb.JPG" alt= “logo1” height="200" width="400"> |
