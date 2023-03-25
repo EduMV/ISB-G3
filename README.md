@@ -36,23 +36,22 @@ Somos un grupo de estudiantes de la carrera de Ingeniería Biomédica de la Pont
 # 
 ### Integrantes:
 
-#### Gonzalo Povea:
+**Gonzalo Povea:**
 Estudiante de la carrera de Ingeniería Biomédica con aptitudes para el trabajo en equipo, la investigación y el desarrollo de proyectos relacionados con la salud que aporten una mejor calidad de vida. Apasionado por la electrónica, mecánica y manufactura digital 3D. 
 
-#### Edu Marin: 
+**Edu Marin:**
 Estudiante de Ingeniería Biomédica con interés en la rama de Señales e Imágenes Biomédicas. Aptitudes para el desarrollo de software y diseño electrónico aplicados a la tecnología en salud.
 
-#### Maria Miranda:
+**Maria Miranda:**
 Estudiante de Ingeniería Biomédica cursando el séptimo ciclo de la carrera con especial interés en la rama de Ingeniería Clínica y aptitudes para el trabajo en equipo y la organización, ademas de la programación.  
 
-#### Fernando Panduro: 
-Estudiante de 
-Ingeniería Biomédica con particular interés en la Ingeniería Clínica, Arquitectura e Ingeniería Hospitalaria, y Gestión de Tecnologías en Salud. Cuento con aptitudes para la investigación, el trabajo en equipo y desarrollo de conocimientos. 
+**Fernando Panduro:**
+Estudiante de Ingeniería Biomédica con particular interés en la Ingeniería Clínica, Arquitectura e Ingeniería Hospitalaria, y Gestión de Tecnologías en Salud. Cuento con aptitudes para la investigación, el trabajo en equipo y desarrollo de conocimientos. 
 
-#### Fernanda Ramirez:
+**Fernanda Ramirez:**
 Estudiante de Ingeniería Biomédica interesada en las ramas de Ingeniería de tejidos e Ingeniería Clínica. Motivada a ser parte del cambio en el sector salud a través de la creación de nuevas alternativas rápidas, eficaces y que puedan ser económicamente accesibles para más personas.
 
-#### Ximena Roldán:
+**Ximena Roldán:**
 Estudiante de ingeniería biomédica aspira poder cambiar el sistema de salud de su país en la rama de Ingeniería clínica.
 
 # 
