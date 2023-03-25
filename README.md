@@ -69,5 +69,5 @@ Estudiante de ingeniería biomédica aspira poder cambiar el sistema de salud de
 ### Recursos
 | Material             | Imagen referencial                                              |
 | ----------------- | ------------------------------------------------------------------ |
-| *Arduino nano 33 loT* es una placa de desarrollo de tamaño reducido que integra capacidades de conectividad inalámbrica, procesamiento de datos y sensores, diseñada para proyectos de Internet de las cosas (IoT) que requieren baja potencia y alta eficiencia energética.| !<img src="[https://www.cayetano.edu.pe/cayetano/images/2018/Logo_Oficial.png](https://cdn.shopify.com/s/files/1/0506/1689/3647/products/ABX00027_03.front_575x432.jpg?v=1626445295)" alt= “logo1” height="100"> |
+| *Arduino nano 33 loT* es una placa de desarrollo de tamaño reducido que integra capacidades de conectividad inalámbrica, procesamiento de datos y sensores, diseñada para proyectos de Internet de las cosas (IoT) que requieren baja potencia y alta eficiencia energética.| !<img src="https://www.cayetano.edu.pe/cayetano/images/2018/Logo_Oficial.png](https://cdn.shopify.com/s/files/1/0506/1689/3647/products/ABX00027_03.front_575x432.jpg?v=1626445295" height="100"> |
 
