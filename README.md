@@ -4,7 +4,7 @@
 # 📈📉 Introducción a Señales Biomédicas - Grupo 3
 
 ## Tabla de contenidos:
-* [Señales Biomédicas](https://github.com/EduMV/ISB-G3/edit/main/README.md#se%C3%B1ales-biom%C3%A9dicas)
+* [Señales Biomédicas]([https://github.com/EduMV/ISB-G3/edit/main/README.md#se%C3%B1ales-biom%C3%A9dicas](https://github.com/EduMV/ISB-G3/blob/main/README.md#se%C3%B1ales-biom%C3%A9dicas)
 * [Curso de Introducción a Señales Biomédicas](https://github.com/EduMV/ISB-G3/edit/main/README.md#curso-de-introducci%C3%B3n-a-se%C3%B1ales-biom%C3%A9dicas)
 * [Unidades del curso](https://github.com/EduMV/ISB-G3/edit/main/README.md#unidades-del-curso)
 * [Nosotros](https://github.com/EduMV/ISB-G3/edit/main/README.md#nosotros)
