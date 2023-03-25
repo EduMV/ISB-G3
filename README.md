@@ -9,7 +9,7 @@
 * Unidades del curso
 * Nosotros
 * Integrantes
-
+* Foto grupal
 
 # 
 ### Señales Biomédicas
