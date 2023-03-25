@@ -13,11 +13,11 @@
 
 # 
 ### Señales Biomédicas
-Las señales biomédicas representan una gran herramienta para monitorizar la salud de los pacientes así como tratar enfermedades y mejorar las condiciones de salud y vida. En la actualidad existen diferentes instrumentos que otorgan un acceso metrológico a estas señales lo que permite la evaluación de diferentes condiciones. Estos rasgos son indispensables como objetivo de desarrollo en los ámbitos médicos actuales  por lo que su investigación tecnológica posee una gran importancia de desarrollo en salud. 
+<p align="justify"> Las señales biomédicas representan una gran herramienta para monitorizar la salud de los pacientes así como tratar enfermedades y mejorar las condiciones de salud y vida. En la actualidad existen diferentes instrumentos que otorgan un acceso metrológico a estas señales lo que permite la evaluación de diferentes condiciones. Estos rasgos son indispensables como objetivo de desarrollo en los ámbitos médicos actuales  por lo que su investigación tecnológica posee una gran importancia de desarrollo en salud. 
 # 
 
 ### Curso de Introducción a Señales Biomédicas
-Este curso desarrollará los conocimientos necesarios para el tratamiento de señales provenientes de dispositivos médicos. Se abordaron temas como: el estudio de los sensores, la tecnología de adquisición, los procesos clínicos en los que se dan y protocolos que se usan para compartir la información entre los diferentes equipos que brindan señales. Las clases se desarrollarán en un laboratorio donde se complementará la teoría brindada con simulaciones en computadora utilizando programas desarrollados en Python y kits de desarrollo para la adquisición de bioseñales.
+<p align="justify"> Este curso desarrollará los conocimientos necesarios para el tratamiento de señales provenientes de dispositivos médicos. Se abordaron temas como: el estudio de los sensores, la tecnología de adquisición, los procesos clínicos en los que se dan y protocolos que se usan para compartir la información entre los diferentes equipos que brindan señales. Las clases se desarrollarán en un laboratorio donde se complementará la teoría brindada con simulaciones en computadora utilizando programas desarrollados en Python y kits de desarrollo para la adquisición de bioseñales.
 
 # 
 
@@ -29,7 +29,7 @@ Este curso desarrollará los conocimientos necesarios para el tratamiento de se�
 
 # 
 ### Nosotros
-Somos un grupo de estudiantes de la carrera de Ingeniería Biomédica de la Pontificia Universidad Católica del Perú y la Universidad Peruana Cayetano Heredia con mucho interés en aprender sobre cómo funcionan los equipos de medición de señales biomédicas, cómo se procesa la información y cómo se pueden aplicar en diferentes campos de la medicina.
+<p align="justify"> Somos un grupo de estudiantes de la carrera de Ingeniería Biomédica de la Pontificia Universidad Católica del Perú y la Universidad Peruana Cayetano Heredia con mucho interés en aprender sobre cómo funcionan los equipos de medición de señales biomédicas, cómo se procesa la información y cómo se pueden aplicar en diferentes campos de la medicina.
 
 <img src="https://cainvas-static.s3.amazonaws.com/media/user_data/cainvas-admin/heart-beat-anomaly.gif" alt= “logo2” height="150" width="700">
 
@@ -38,27 +38,27 @@ Somos un grupo de estudiantes de la carrera de Ingeniería Biomédica de la Pont
 
 **Gonzalo Povea:**
 
-Estudiante de la carrera de Ingeniería Biomédica con aptitudes para el trabajo en equipo, la investigación y el desarrollo de proyectos relacionados con la salud que aporten una mejor calidad de vida. Apasionado por la electrónica, mecánica y manufactura digital 3D. 
+<p align="justify"> Estudiante de la carrera de Ingeniería Biomédica con aptitudes para el trabajo en equipo, la investigación y el desarrollo de proyectos relacionados con la salud que aporten una mejor calidad de vida. Apasionado por la electrónica, mecánica y manufactura digital 3D. 
 
 **Edu Marin:**
 
-Estudiante de Ingeniería Biomédica con interés en la rama de Señales e Imágenes Biomédicas. Aptitudes para el desarrollo de software y diseño electrónico aplicados a la tecnología en salud.
+<p align="justify"> Estudiante de Ingeniería Biomédica con interés en la rama de Señales e Imágenes Biomédicas. Aptitudes para el desarrollo de software y diseño electrónico aplicados a la tecnología en salud.
 
 **Maria Miranda:**
 
-Estudiante de Ingeniería Biomédica cursando el séptimo ciclo de la carrera con especial interés en la rama de Ingeniería Clínica y aptitudes para el trabajo en equipo y la organización, ademas de la programación.  
+<p align="justify"> Estudiante de Ingeniería Biomédica cursando el séptimo ciclo de la carrera con especial interés en la rama de Ingeniería Clínica y aptitudes para el trabajo en equipo y la organización, ademas de la programación.  
 
 **Fernando Panduro:**
 
-Estudiante de Ingeniería Biomédica con particular interés en la Ingeniería Clínica, Arquitectura e Ingeniería Hospitalaria, y Gestión de Tecnologías en Salud. Cuento con aptitudes para la investigación, el trabajo en equipo y desarrollo de conocimientos. 
+<p align="justify"> Estudiante de Ingeniería Biomédica con particular interés en la Ingeniería Clínica, Arquitectura e Ingeniería Hospitalaria, y Gestión de Tecnologías en Salud. Cuento con aptitudes para la investigación, el trabajo en equipo y desarrollo de conocimientos. 
 
 **Fernanda Ramirez:**
 
-Estudiante de Ingeniería Biomédica interesada en las ramas de Ingeniería de tejidos e Ingeniería Clínica. Motivada a ser parte del cambio en el sector salud a través de la creación de nuevas alternativas rápidas, eficaces y que puedan ser económicamente accesibles para más personas.
+<p align="justify"> Estudiante de Ingeniería Biomédica interesada en las ramas de Ingeniería de tejidos e Ingeniería Clínica. Motivada a ser parte del cambio en el sector salud a través de la creación de nuevas alternativas rápidas, eficaces y que puedan ser económicamente accesibles para más personas.
 
 **Ximena Roldán:**
 
-Estudiante de ingeniería biomédica aspira poder cambiar el sistema de salud de su país en la rama de Ingeniería clínica.
+<p align="justify"> Estudiante de ingeniería biomédica aspira poder cambiar el sistema de salud de su país en la rama de Ingeniería clínica.
 
 # 
 ### Foto grupal
