@@ -10,6 +10,7 @@
 * [Nosotros](https://github.com/EduMV/ISB-G3/blob/main/README.md#nosotros)
 * [Integrantes](https://github.com/EduMV/ISB-G3/blob/main/README.md#integrantes)
 * [Foto grupal](https://github.com/EduMV/ISB-G3/blob/main/README.md#foto-grupal)
+* [Recursos](https://github.com/EduMV/ISB-G3/blob/main/README.md#recursos)
 
 # 
 ### Señales Biomédicas
