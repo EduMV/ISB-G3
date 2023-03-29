@@ -6,7 +6,7 @@ Amplitud: 3 Vpp
 Offset 1.5V
 
 | Materiales             | Imagen referencial                                              |
-
+| ----------------- | ------------------------------------------------------------------ |
 ### Imagen generador
 
 <img src="Generador_onda_cuadrada.jpeg" height="450">
