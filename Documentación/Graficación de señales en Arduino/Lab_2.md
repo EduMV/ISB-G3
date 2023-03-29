@@ -4,7 +4,7 @@ Frecuencia: 1KHz
 Amplitud: 3 Vpp
 
 Offset 1.5V
-# 
+
 
 ### Imagen generador
 
