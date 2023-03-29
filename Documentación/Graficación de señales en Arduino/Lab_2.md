@@ -10,5 +10,7 @@ Offset 1.5V
 
 <img src="Generador_onda_cuadrada.jpeg" height="450">
 
-## Imagen osciloscopio
+#
+
+### Imagen osciloscopio
 <img src="Osciloscopio_onda_cuadrada.jpeg" height="450">
