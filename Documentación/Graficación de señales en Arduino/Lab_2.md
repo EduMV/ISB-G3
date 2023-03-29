@@ -7,7 +7,8 @@ Offset 1.5V
 
 | GENERADOR             | OSCILOSCOPIO                                              |
 | ----------------- | ------------------------------------------------------------------ |
-| <p align="justify"> <img src="Generador_onda_cuadrada.jpeg" height="300"> | <img src="Osciloscopio_onda_cuadrada.jpeg" height="300">|
+| <p align="justify"> <img src="Generador_onda_cuadrada.jpeg" height="300"> | <img src="Osciloscopio_onda_cuadrada.jpeg" height="300">
+ |
 
  #
 
