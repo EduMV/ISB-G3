@@ -8,4 +8,4 @@ Offset 1.5V
 
 ## Imagen generador
 
-<img src="Generador_onda_cuadrada.jpeg">
+<img src="Generador_onda_cuadrada.jpeg" height="200">
