@@ -5,6 +5,7 @@ Amplitud: 3 Vpp
 
 Offset 1.5V
 
+| Materiales             | Imagen referencial                                              |
 
 ### Imagen generador
 
