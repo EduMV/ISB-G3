@@ -1,8 +1,8 @@
 # Uso de BiTalino para EMG y ECG
 
-Laboratorio 3 
+### Laboratorio 3 
 
-Fecha: 05 Abril 2023
+### Fecha: 05 Abril 2023
 
 #
 ## Objetivos
