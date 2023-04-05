@@ -45,16 +45,16 @@ Cabe resaltar que los cables deben estar bien conectados, ya que eso puede afect
 
 ![BiTalino_Cables](https://user-images.githubusercontent.com/101833633/230154500-41b3b224-94dd-451f-acdf-21d5016db301.jpg)
 
-
+#
 #### Electrodos - Cuerpo
 Para la conexion electrodos - cuerpo nos guiamos del "BiTalino - Electromyography (EMG) Sensor User Manual" del capitulo 2 "Application Notes" para el posicionamiento de electrodos de EMG en el musculo biceps braquial.
 ![BiTalino EMG positioning](https://user-images.githubusercontent.com/101833633/230150043-aaa692d3-2491-48af-9c2a-a407265479c9.png)
       Extraido de: P. W. B. S.A., “Electromyography (EMG) Sensor User Manual,” p. 19, 2020.
 
-***Imagenes Electrodos Cuerpo***
+
 |   Vista Superior | Vista Lateral | Vista Inferior |
 | :---         |     :---:      |          ---: |
-|  ![Vista Superior EC](https://user-images.githubusercontent.com/101833633/230156288-009943e3-3f63-4313-95ec-763d77b7698f.jpg)  |    ![Vista Lateral Of1](https://user-images.githubusercontent.com/101833633/230156077-ec2c9211-fe71-45e9-8145-b83835f89a0e.jpg)  | ![Vista Inferior EC](https://user-images.githubusercontent.com/101833633/230152224-b7e9eff4-c24e-4a49-a534-36e7bd36999c.jpg)
+|  ![Vista Superior EC](https://user-images.githubusercontent.com/101833633/230156288-009943e3-3f63-4313-95ec-763d77b7698f.jpg)  |    ![Vista Lateral EC 1](https://user-images.githubusercontent.com/101833633/230159803-535ae53d-0d39-47d5-94a3-ede9b937d791.jpg)  | ![Vista Inferior EC](https://user-images.githubusercontent.com/101833633/230152224-b7e9eff4-c24e-4a49-a534-36e7bd36999c.jpg)
     
 
 
@@ -64,8 +64,20 @@ https://user-images.githubusercontent.com/101833633/230154928-bd204d2a-512e-4fab
 
 
 #
-### Ploteo de la señal en OpenSignals
+Tambien realizamos pruebas con movimiento de flexión del musculo, que adjuntamos a continuación.
 
+https://user-images.githubusercontent.com/101833633/230157275-fe89bc35-8fbc-4023-80ea-8ae2af22d2e1.mp4
+
+
+
+#
+### Ploteo de la señal en OpenSignals
+| Reposo             | Flexión                                              |
+| ----------------- | ------------------------------------------------------------------ |
+| ![Señal_R](https://user-images.githubusercontent.com/101833633/230158425-db118e18-542d-4abc-932c-cfc610b1e3aa.jpg) | ![Señal_F](https://user-images.githubusercontent.com/101833633/230158740-4b5261ed-487f-4525-b1f4-98da88abd7ed.jpg) |
+| ![Señal_F_Cerca](https://user-images.githubusercontent.com/101833633/230159110-87fb82a1-cbe6-48ad-80ad-2950d67c7295.jpg) | ![Señal_R_Cerca](https://user-images.githubusercontent.com/101833633/230159070-8c4fa2b6-b52c-402a-b606-9de3d2ead65d.jpg) | 
+   
+   
 #
 ### Resumen y explicación de la señal ploteada
 Se estudia trabajo, no tanto anomalias
