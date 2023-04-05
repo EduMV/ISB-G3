@@ -36,14 +36,20 @@ Fecha: 05 Abril 2023
 #
 ## Entregables
 
+#
 ### Fotos de conexión usada
 
+#
 ### Video de señal en silencio eléctrico o reposo
 
+#
 ### Ploteo de la señal en OpenSignals
 
+#
 ### Resumen y explicación de la señal ploteada
 
+#
 ### Archivo de los datos de la señal ploteada
 
+#
 ### Ploteo en Python
