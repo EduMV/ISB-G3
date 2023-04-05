@@ -36,12 +36,24 @@
 #
 ## Entregables
 
-#
+#### BiTalino - Cables
+Para esta conexion nos guiamos de la guia de usuario de BiTalino y usamos el cable de hilos para la EMG.
+Cabe resaltar que los cables deben estar bien conectados, ya que eso puede afectar la lectura de la señal. En un primer momneto, no nos percatamos que el cable de hilos no estaba bien conectado al BiTalino lo que ocasiono que no se observara ninguna variacion cuando el usuario flexionaba el brazo.
+
+![BiTalino_Cables](https://user-images.githubusercontent.com/101833633/230154500-41b3b224-94dd-451f-acdf-21d5016db301.jpg)
+
+
 ### Fotos de conexión usada
 #### Electrodos - Cuerpo
 Para la conexion electrodos - cuerpo nos guiamos del "BiTalino - Electromyography (EMG) Sensor User Manual" del capitulo 2 "Application Notes" para el posicionamiento de electrodos de EMG en el musculo biceps braquial.
 ![BiTalino EMG positioning](https://user-images.githubusercontent.com/101833633/230150043-aaa692d3-2491-48af-9c2a-a407265479c9.png)
-Extraido de: P. W. B. S.A., “Electromyography (EMG) Sensor User Manual,” p. 19, 2020.
+      Extraido de: P. W. B. S.A., “Electromyography (EMG) Sensor User Manual,” p. 19, 2020.
+
+***Imagenes Electrodos Cuerpo***
+|   Vista Superior | Vista Lateral | Vista Inferior |
+| :---         |     :---:      |          ---: |
+|  ![Vista Superior EC](https://user-images.githubusercontent.com/101833633/230152116-a8f45cf7-2bae-400c-95a5-de270490e577.jpg)  |   ![Vista Lateral EC](https://user-images.githubusercontent.com/101833633/230152161-9248641e-2708-488f-8f6f-15ee6255f976.jpg)   | ![Vista Inferior EC](https://user-images.githubusercontent.com/101833633/230152224-b7e9eff4-c24e-4a49-a534-36e7bd36999c.jpg)
+    
 
 
 #
