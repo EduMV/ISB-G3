@@ -47,7 +47,11 @@ Cabe resaltar que los cables deben estar bien conectados, ya que eso puede afect
 
 #
 #### Electrodos - Cuerpo
-Para la conexion electrodos - cuerpo nos guiamos del "BiTalino - Electromyography (EMG) Sensor User Manual" del capitulo 2 "Application Notes" para el posicionamiento de electrodos de EMG en el musculo biceps braquial.
+Para la conexion electrodos - cuerpo nos guiamos del "BiTalino - Electromyography (EMG) Sensor User Manual" del capitulo 2 "Application Notes" para el posicionamiento de electrodos de EMG en el ***musculo biceps braquial***.
+
+Algunos puntos a tener en cuenta para esta conexión son que el paciente debe relajar el cuerpo, para evitar que otros paquetes musculares interfieran con la señal del musculo que queremos. Además los electrodos no deben chocar con otros objetos del medio para evitar interferencia.
+Finalmente, el electrodo de referencia lo conectamos a un "punto muerto" que son puntos oseos o articulaciones que llevan a puntos oseos, como el codo.
+
 ![BiTalino EMG positioning](https://user-images.githubusercontent.com/101833633/230150043-aaa692d3-2491-48af-9c2a-a407265479c9.png)
       Extraido de: P. W. B. S.A., “Electromyography (EMG) Sensor User Manual,” p. 19, 2020.
 
@@ -64,7 +68,7 @@ https://user-images.githubusercontent.com/101833633/230154928-bd204d2a-512e-4fab
 
 
 #
-Tambien realizamos pruebas con movimiento de flexión del musculo, que adjuntamos a continuación.
+Tambien realizamos pruebas con movimiento de **flexión del musculo**, que adjuntamos a continuación.
 
 https://user-images.githubusercontent.com/101833633/230157275-fe89bc35-8fbc-4023-80ea-8ae2af22d2e1.mp4
 
@@ -80,16 +84,18 @@ https://user-images.githubusercontent.com/101833633/230157275-fe89bc35-8fbc-4023
    
 #
 ### Resumen y explicación de la señal ploteada
-Se estudia trabajo, no tanto anomalias
-Se debe relajar el cuerpo porque los paquetes musculares deben estar relajados
-Ningun electrodo debe chocar con otras cosas
+
+Para la señal estamos usando el musculo bicep braquial, como mencionamos anteriormente.
+
+
+#### Reposo
+Para la medicion de la actividad EMG en reposo, el  musculo debe ser silente (en silencio) y detectar actividad podria señalar la existencia de una patologia del nervio o del musculo.
+
+Podemos observar en el ploteo que la señal tiene una amplitud de muy pocos mV que pueden ser ruido electrico o la actividad de otros musculos.
+
+#### Flexión
 Se busca plotear la flexion porque la señal es mas grande 
 Solo se levante el antebrazo.
-El paciente ejerce fuerza hacia arriba 
-
-Punto muerto: punto oseo o de articulaciones que lleve a punto oseo 
-
-
 
 #
 ### Archivo de los datos de la señal ploteada
