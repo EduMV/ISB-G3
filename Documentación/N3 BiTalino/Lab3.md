@@ -4,6 +4,7 @@ Laboratorio 3
 
 Fecha: 05 Abril 2023
 
+#
 ## Objetivos
 * Adquirir señales biomédicas de EMG y ECG.
 * Hacer una correcta configuración de BiTalino.
@@ -23,3 +24,26 @@ Fecha: 05 Abril 2023
     * Resumen y explicación de la señal ploteada
     * Archivo de los datos de la señal ploteada
     * Ploteo en Python
+
+#
+## Materiales y equipos
+
+| Modelo | Descripción | Cantidad |
+| :---         |     :---:      |          ---: |
+| (R)EVOLUTION   | Kit BiTalino     | 1    |
+| -     | Laptop o PC       | 1      |
+
+#
+## Entregables
+
+### Fotos de conexión usada
+
+### Video de señal en silencio eléctrico o reposo
+
+### Ploteo de la señal en OpenSignals
+
+### Resumen y explicación de la señal ploteada
+
+### Archivo de los datos de la señal ploteada
+
+### Ploteo en Python
