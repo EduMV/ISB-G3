@@ -14,16 +14,16 @@
 
 ## Tabla de contenidos
 
-1. [MATERIALES Y EQUIPOS](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/N3%20BiTalino/Lab3.md#materiales-y-equipos)
+1. [MATERIALES Y EQUIPOS](https://github.com/EduMV/ISB-G3/main/Documentaci%C3%B3n/N3%20BiTalino/Lab3.md#materiales-y-equipos)
 
-2. [ENTREGABLES](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/N3%20BiTalino/Lab3.md#entregables)
+2. [ENTREGABLES](https://github.com/EduMV/ISB-G3/main/Documentaci%C3%B3n/N3%20BiTalino/Lab3.md#entregables)
 
-    * [Fotos de conexión usada](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/N3%20BiTalino/Lab3.md#fotos-de-conexi%C3%B3n-usada)
-    * [Video de señal en silencio eléctrico o reposo](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/N3%20BiTalino/Lab3.md#video-de-se%C3%B1al-en-silencio-el%C3%A9ctrico-o-reposo)
-    * [Ploteo de la señal en OpenSignals](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/N3%20BiTalino/Lab3.md#ploteo-de-la-se%C3%B1al-en-opensignals)
-    * [Resumen y explicación de la señal ploteada](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/N3%20BiTalino/Lab3.md#resumen-y-explicaci%C3%B3n-de-la-se%C3%B1al-ploteada)
-    * [Archivo de los datos de la señal ploteada](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/N3%20BiTalino/Lab3.md#archivo-de-los-datos-de-la-se%C3%B1al-ploteada)
-    * [Ploteo en Python](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/N3%20BiTalino/Lab3.md#ploteo-en-python)
+    * [Fotos de conexión usada](https://github.com/EduMV/ISB-G3/main/Documentaci%C3%B3n/N3%20BiTalino/Lab3.md#fotos-de-conexi%C3%B3n-usada)
+    * [Video de señal en silencio eléctrico o reposo](https://github.com/EduMV/ISB-G3/main/Documentaci%C3%B3n/N3%20BiTalino/Lab3.md#video-de-se%C3%B1al-en-silencio-el%C3%A9ctrico-o-reposo)
+    * [Ploteo de la señal en OpenSignals](https://github.com/EduMV/ISB-G3/main/Documentaci%C3%B3n/N3%20BiTalino/Lab3.md#ploteo-de-la-se%C3%B1al-en-opensignals)
+    * [Resumen y explicación de la señal ploteada](https://github.com/EduMV/ISB-G3/main/Documentaci%C3%B3n/N3%20BiTalino/Lab3.md#resumen-y-explicaci%C3%B3n-de-la-se%C3%B1al-ploteada)
+    * [Archivos](https://github.com/EduMV/ISB-G3/main/Documentaci%C3%B3n/N3%20BiTalino/Lab3.md#archivo-de-los-datos-de-la-se%C3%B1al-ploteada)
+    * [Ploteo en Python](https://github.com/EduMV/ISB-G3/main/Documentaci%C3%B3n/N3%20BiTalino/Lab3.md#ploteo-en-python)
 
 #
 ## Materiales y equipos
@@ -85,7 +85,7 @@ https://user-images.githubusercontent.com/101833633/230157275-fe89bc35-8fbc-4023
 #
 ### Resumen y explicación de la señal ploteada
 
-Para la señal estamos usando el musculo bicep braquial, como mencionamos anteriormente.
+Para la señal estamos usando el musculo bíceps braquial, como mencionamos anteriormente.
 
 
 #### Reposo
@@ -94,11 +94,32 @@ Para la medicion de la actividad EMG en reposo, el  musculo debe ser silente (en
 Podemos observar en el ploteo que la señal tiene una amplitud de muy pocos mV que pueden ser ruido electrico o la actividad de otros musculos.
 
 #### Flexión
-Se busca plotear la flexion porque la señal es mas grande 
-Solo se levante el antebrazo.
+Al realizar la flexión del antebrazo e iniciar la actividad muscular, podemos observar la aparición de potenciales eléctricos, la amplitud aumenta de forma correspondiente con la actividad muscular.
+
+La forma de onda del potencial de acción de mayor amplitud fue registrado y sus componentes se describen a continuación:
+
+![WhatsApp Image 2023-04-05 at 9 36 46 PM](https://user-images.githubusercontent.com/86316349/230261594-b771fb3a-1f04-4de7-8494-a53862ff275b.jpeg)
 
 #
-### Archivo de los datos de la señal ploteada
+### Archivos
+
+- [Datos obtenidos de la señal](https://github.com/EduMV/ISB-G3/blob/ad17b5a342c4a4dc006ea6a5e3606c01a9957bbf/Documentaci%C3%B3n/L3_BiTalino/Se%C3%B1al%20en%20formato%20txt/signal_emg.txt)
+- [Notebook de ploteo en python](https://github.com/EduMV/ISB-G3/blob/ad17b5a342c4a4dc006ea6a5e3606c01a9957bbf/Software/L3_BiTalino/lectura_se%C3%B1al.ipynb)
 
 #
 ### Ploteo en Python
+#### Gráfica adquirida completa
+![complete_signal](https://user-images.githubusercontent.com/86316349/230258967-1a80a539-b3fc-4fca-be03-8b9d22786080.png)
+#### Reposo, fase activa y potencial de acción
+![emg](https://user-images.githubusercontent.com/86316349/230259118-b1795785-6214-4c7b-8c9e-5de9e32773a8.png)
+
+- *Podemos observar que la señal en reposo aún presenta ruido eléctrico, sin embargo la amplitud de este es baja*
+
+- *Con el aumento gradual de la fuerza muscular, se observa un aumento correspondiente en la amplitud de la señal*
+
+- *Se observa además un potencial de acción, la señal EMG está compuesta por varios de ellos*
+
+#### Análisis en frecuencia de la señal
+![fft](https://user-images.githubusercontent.com/86316349/230259150-ca063181-1f26-404f-a6c6-ab62eedd2dcf.png)
+
+
