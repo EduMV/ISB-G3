@@ -103,8 +103,8 @@ La forma de onda del potencial de acción de mayor amplitud fue registrado y sus
 #
 ### Archivos
 
-- [Datos obtenidos de la señal](https://github.com/EduMV/ISB-G3/blob/ad17b5a342c4a4dc006ea6a5e3606c01a9957bbf/Documentaci%C3%B3n/L3_BiTalino/Se%C3%B1al%20en%20formato%20txt/signal_emg.txt)
-- [Notebook de ploteo en python](https://github.com/EduMV/ISB-G3/blob/ad17b5a342c4a4dc006ea6a5e3606c01a9957bbf/Software/L3_BiTalino/lectura_se%C3%B1al.ipynb)
+- [Datos obtenidos de la señal](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L3_BiTalino/Se%C3%B1al%20en%20formato%20txt/signal_emg.txt)
+- [Notebook de ploteo en python](https://github.com/EduMV/ISB-G3/blob/main/Software/L3_BiTalino/lectura_se%C3%B1al.ipynb)
 
 #
 ### Ploteo en Python
