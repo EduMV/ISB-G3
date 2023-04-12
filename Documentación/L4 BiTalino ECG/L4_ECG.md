@@ -27,7 +27,7 @@
 2. [ENTREGABLES](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#entregables)
 
     * [Fotos de conexión usada](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#fotos-de-conexi%C3%B3n-usada)
-    * [Video de señal en silencio eléctrico o reposo](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#video-de-se%C3%B1al-en-silencio-el%C3%A9ctrico-o-reposo)
+    * [Video de señal después de actividad física](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#video-de-se%C3%B1al-en-silencio-el%C3%A9ctrico-o-reposo)
     * [Ploteo de la señal en OpenSignals](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#ploteo-de-la-se%C3%B1al-en-opensignals)
     * [Resumen y explicación de la señal ploteada](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#resumen-y-explicaci%C3%B3n-de-la-se%C3%B1al-ploteada)
     * [Archivos](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#archivos)
@@ -73,7 +73,16 @@ Entonces, posicionamos los electrodos positivos y negativos en las muñecas y el
 
 
 #
-### Video de señal en silencio eléctrico o reposo
+### Video de señal después de actividad física
+
+Para el reposo, no contamos con un video de la toma de la señal, sin embargo, adjuntamos una foto del proceso.
+![Señal_ECG_R](https://user-images.githubusercontent.com/101833633/231530311-87a5de4a-0d3a-488f-9e4f-16aca5d80480.jpg)
+
+
+Para medir la señal despues del ejercicio, el paciente realizo ejercicio (burpees) durante 3 minutos, para asegurar que su ritmo cardiaco este acelerado.
+
+https://user-images.githubusercontent.com/101833633/231529945-f8db88ee-2fae-48c0-aac2-90ec54d865d1.mp4
+
 
 
 #
@@ -82,10 +91,10 @@ Entonces, posicionamos los electrodos positivos y negativos en las muñecas y el
 
 #
 ### Ploteo de la señal en OpenSignals
-| Reposo             | Flexión                                              |
-| ----------------- | ------------------------------------------------------------------ |
-| Foto | Foto |
-| Foto | Foto | 
+| Reposo | Aguantando respiración | Post-ejercicio |
+| :---         |     :---:      |          ---: |
+| (R)EVOLUTION   | Kit BiTalino     | 1    |
+| -     | Laptop o PC       | 1      |
    
    
 #
