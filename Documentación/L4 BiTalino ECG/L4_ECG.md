@@ -33,7 +33,7 @@
     * [Archivos](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#archivos)
     * [Ploteo en Python](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#ploteo-en-python)
 
-3. [REFERENCIAS BIBLIOGRÄFICAS] ()
+3. [REFERENCIAS BIBLIOGRÁFICAS] ()
 
 #
 ## Materiales y equipos
@@ -113,5 +113,7 @@ Para la señal estamos usando el musculo bíceps braquial, como mencionamos ante
 #### Análisis en frecuencia de la señal
 
 
+#
+### Referencias biblográficas
 
 
