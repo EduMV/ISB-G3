@@ -14,9 +14,9 @@
 
 ## Tabla de contenidos
 
-1. [MATERIALES Y EQUIPOS](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L3_BiTalino/Lab3.md#materiales-y-equipos)
+1. [MATERIALES Y EQUIPOS](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#materiales-y-equipos)
 
-2. [ENTREGABLES](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L3_BiTalino/Lab3.md#entregables)
+2. [ENTREGABLES](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#entregables)
 
     * [Fotos de conexión usada](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L3_BiTalino/Lab3.md#fotos-de-conexi%C3%B3n-usada)
     * [Video de señal en silencio eléctrico o reposo](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L3_BiTalino/Lab3.md#video-de-se%C3%B1al-en-silencio-el%C3%A9ctrico-o-reposo)
