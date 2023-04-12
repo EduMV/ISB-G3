@@ -64,7 +64,7 @@ Para el posicionamiento de los electrodos, usamos como guia el documento "BITali
 
 Los electrodos se ubican en esas posiciones (cerca a huesos) para evitar captar el movimiento de los músculos.
 
-![BiTalino_guia_conexion](https://user-images.githubusercontent.com/101833633/231528251-4b7a1e8a-0da4-4af1-9bdc-7c9ee8793f3b.png)
+![Imagen_1](https://user-images.githubusercontent.com/89672526/231577174-f517be3b-53c2-4101-880d-68be6c65eedd.png)
 
 Entonces, posicionamos los electrodos positivos y negativos en las muñecas y el de referencia en la cresta iliaca.
 
@@ -119,6 +119,15 @@ En la señal, podemos observar las siguientes ondas [4]
 
 ![Fases_ciclo_cardiaco](https://user-images.githubusercontent.com/89672526/231572623-14b1062d-7c16-4698-a4f1-126b2e973a98.jpeg)
 
+*Extraído de The Art of Daniel Bernal*
+
+
+
+Las ondas observadas tienen relación con los eventos que ocurren en las fases del ciclo cardiaco. Estos se pueden resumir acontinuación:
+
+![ezgif com-resize](https://user-images.githubusercontent.com/89672526/231580414-300b236c-9a75-4501-8ff2-cfa5d4007d9f.gif)
+
+*Extraído de Human Bio Media*
 
 #
 ### Archivos
