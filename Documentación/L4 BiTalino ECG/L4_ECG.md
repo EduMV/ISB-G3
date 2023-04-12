@@ -117,6 +117,7 @@ En la señal, podemos observar las siguientes ondas [4]
 6. *Segmento TP:* Ventrículos completamente relajados y en reposo.
 
 
+![Fases_ciclo_cardiaco](https://user-images.githubusercontent.com/89672526/231572623-14b1062d-7c16-4698-a4f1-126b2e973a98.jpeg)
 
 
 #
