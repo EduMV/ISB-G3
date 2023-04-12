@@ -99,10 +99,9 @@ https://user-images.githubusercontent.com/101833633/231529945-f8db88ee-2fae-48c0
 | Análisis de señales |
 | ![Fig1](https://user-images.githubusercontent.com/128626501/231598791-787bb2a1-3ae0-4c08-b6e0-184d8de73a2c.jpg)| ![Fig2](https://user-images.githubusercontent.com/128626501/231598808-a98c34ce-8d77-419c-9c82-90da8c1b99e7.jpg)
 
+### Análisis y discusión de resultados
 
-
-
-### EXPLICACIÓN!!!!!
+Se observa que la primera señal muestra un comportamiento normal en la Onda P y T, sin embargo el Complejo QRS presenta un comportamiento negativo. El complejo QRS debe presentar un comportamiento positivo debido 
 
    
 |      Aguantando la respiración | Post-ejercicio     |
