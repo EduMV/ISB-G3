@@ -16,7 +16,7 @@
 ## Objetivos
 * Adquirir señales biomédicas de ECG.
 * Hacer una correcta configuración de BiTalino.
-* Extraer la información de las señales ECG del software OpenSignals (r)evolutio
+* Extraer la información de las señales ECG del software OpenSignals (r)evolution
 
 #
 
@@ -50,10 +50,9 @@
 ### Fotos de conexión usada
 
 #### BiTalino - Cables
-<p align="justify">Para esta conexion nos guiamos de la guia de usuario de BiTalino y usamos el cable de hilos para la EMG.
-Cabe resaltar que los cables deben estar bien conectados, ya que eso puede afectar la lectura de la señal. En un primer momneto, no nos percatamos que el cable de hilos no estaba bien conectado al BiTalino lo que ocasiono que no se observara ninguna variacion cuando el usuario flexionaba el brazo.</p>
-
-**Foto**
+<p align="justify">Para esta conexion nos guiamos de la guia de usuario de BiTalino y usamos el cable de hilos para la señal ECG.
+Cabe resaltar que los cables deben estar bien conectados, ya que eso puede afectar la lectura de la señal. </p>
+![BiTalino_Cables](https://user-images.githubusercontent.com/101833633/231526548-be5c19cd-e8cd-4345-921f-870c2496a7da.jpg)
 
 #
 #### Electrodos - Cuerpo
@@ -115,5 +114,10 @@ Para la señal estamos usando el musculo bíceps braquial, como mencionamos ante
 
 #
 ### Referencias biblográficas
+[1] “Using BITalino Mini with Electrocardiography (ECG) Sensor Application Notes,” pp. 1–23, 2020.
+[2] PLUX Wireless Biosignals, “BITalino (r)evolution User Manual,” 2020, [Online]. Available: http://bitalino.com/.
+[3] M. Proença and K. Mrotzek, “BITalino (r)evolution Home Guide,” 2020.
+[4] L. Azcona, “Estructura del corazón Capítulo 4 El electrocardiograma.” Accessed: Apr. 11, 2023. [Online]. Available: [https://www.fbbva.es/microsites/salud_cardio/mult/fbbva_libroCorazon_cap4.pdf#:~:text=La actividad eléctrica del corazón recogida en el](https://www.fbbva.es/microsites/salud_cardio/mult/fbbva_libroCorazon_cap4.pdf#:~:text=La%20actividad%20el%C3%A9ctrica%20del%20coraz%C3%B3n%20recogida%20en%20el)
+‌[5] “BITalino (r)evolution Lab Guide.” Available: [https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf](https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf)
 
 
