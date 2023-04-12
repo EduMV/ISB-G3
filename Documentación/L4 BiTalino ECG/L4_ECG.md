@@ -62,6 +62,8 @@ Cabe resaltar que los cables deben estar bien conectados, ya que eso puede afect
 
 Para el posicionamiento de los electrodos, usamos como guia el documento "BITalino (r)evolution Home Guide". [3]
 
+Los electrodos se ubican en esas posiciones (cerca a huesos) para evitar captar el movimiento de los músculos.
+
 ![BiTalino_guia_conexion](https://user-images.githubusercontent.com/101833633/231528251-4b7a1e8a-0da4-4af1-9bdc-7c9ee8793f3b.png)
 
 Entonces, posicionamos los electrodos positivos y negativos en las muñecas y el de referencia en la cresta iliaca.
@@ -79,7 +81,7 @@ Para el reposo, no contamos con un video de la toma de la señal, sin embargo, a
 ![Señal_ECG_R](https://user-images.githubusercontent.com/101833633/231530311-87a5de4a-0d3a-488f-9e4f-16aca5d80480.jpg)
 
 
-Para medir la señal despues del ejercicio, el paciente realizo ejercicio (burpees) durante 3 minutos, para asegurar que su ritmo cardiaco este acelerado.
+Para medir la señal despues del ejercicio, el paciente realizo ejercicio (burpees) durante 2 minuto, para asegurar que su ritmo cardiaco este acelerado.
 
 https://user-images.githubusercontent.com/101833633/231529945-f8db88ee-2fae-48c0-aac2-90ec54d865d1.mp4
 
@@ -91,29 +93,31 @@ https://user-images.githubusercontent.com/101833633/231529945-f8db88ee-2fae-48c0
 
 #
 ### Ploteo de la señal en OpenSignals
-| Reposo | Aguantando respiración | Post-ejercicio |
-| :---         |     :---:      |          ---: |
-| (R)EVOLUTION   | Kit BiTalino     | 1    |
-| -     | Laptop o PC       | 1      |
+| Reposo primera toma | Reposo electrodos invertidos |
+| :---         |       ---: |
+| ![Rep_falla](https://user-images.githubusercontent.com/101833633/231533739-022c6741-6cc5-4309-8258-fc8a4b1ff357.jpg) | ![Reposo_ECG](https://user-images.githubusercontent.com/101833633/231533781-911559ac-7d96-4235-8a32-348fbe3f9d1b.jpg) 
+
+### EXPLICACIÓN!!!!!
+
    
+|      Aguantando la respiración | Post-ejercicio     |
+| :---         |       ---: |
+| ![Ag_resp](https://user-images.githubusercontent.com/101833633/231534957-fcd76388-b02a-4ffb-8795-9f750b401bcc.jpg) |![ECG_Agitada](https://user-images.githubusercontent.com/101833633/231535010-576ecdef-6f97-46ee-9f36-c5799d104a89.jpg)  |
+
    
 #
 ### Resumen y explicación de la señal ploteada
+En la señal, podemos observar las siguientes ondas [4]
 
-Para la señal estamos usando el musculo bíceps braquial, como mencionamos anteriormente.
+1. *Onda P:* Primera deflexión hacia arriba. Representa la activación eléctrica que produce la contracción de las aurículas, también conocida como despolarización auricular. La onda P debe ser suave, redondeada y positiva (hacia arriba).
+2. *Segmento P-R*: Tramo de la línea isoeléctrica que se encuentra entre el final de la onda P y la siguiente deflexión. En este periodo, las aurículas terminan de vaciarse y se produce desaceleración en la transmisión de la corriente eléctrica, justo antes del inicio de la contracción de los ventrículos
+3. *Complejo QRS:* Despolarización ventricular. En este periodo ocurre la activación eléctrica que produce la contracción de los ventrículos. En un ECG normal se deben observar ondas Q de tamaño pequeño (no mayores a un cuadrado pequeño tanto en longitud como profundidad) y encontrarse solo en ciertas derivaciones. En general, el complejo QRS no debe exceder en duración más de dos cuadrados pequeños.
+4. *Segmento ST:* En este segmento, los ventrículos están totalmente despolarizados. Tiene valor como herramienta diagnóstica ya que su elevación o descenso en relación con la línea basal puede significar insuficiencia en la irrigación del corazón
+5. *Onda T:* Repolarización ventricular, es el proceso eléctrico que permite a los ventrículos relajarse y prepararse para el siguiente ciclo cardíaco. La onda T es normalmente una deflexión positiva (hacia arriba)
+6. *Segmento TP:* Ventrículos completamente relajados y en reposo.
 
 
-#### Reposo
-<p align="justify">Para la medicion de la actividad EMG en reposo, el  musculo debe ser silente (en silencio) y detectar actividad podria señalar la existencia de una patologia del nervio o del musculo.</p>
 
-<p align="justify">Podemos observar en el ploteo que la señal tiene una amplitud de muy pocos mV que pueden ser ruido electrico o la actividad de otros musculos.</p>
-
-#### Flexión
-<p align="justify">Al realizar la flexión del antebrazo e iniciar la actividad muscular, podemos observar la aparición de potenciales eléctricos, la amplitud aumenta de forma correspondiente con la actividad muscular.</p>
-
-<p align="justify">La forma de onda del potencial de acción de mayor amplitud fue registrado y sus componentes se describen a continuación:</p>
-
-**Foto**
 
 #
 ### Archivos
