@@ -52,15 +52,23 @@
 #### BiTalino - Cables
 <p align="justify">Para esta conexion nos guiamos de la guia de usuario de BiTalino y usamos el cable de hilos para la señal ECG.
 Cabe resaltar que los cables deben estar bien conectados, ya que eso puede afectar la lectura de la señal. </p>
-![BiTalino_Cables](https://user-images.githubusercontent.com/101833633/231526548-be5c19cd-e8cd-4345-921f-870c2496a7da.jpg)
+
+![BiTalino_Cables](https://user-images.githubusercontent.com/101833633/231526748-466001e1-cd68-4bbe-9241-2360801a1a27.jpg)
+
+
 
 #
 #### Electrodos - Cuerpo
 
+Para el posicionamiento de los electrodos, usamos como guia el documento "BITalino (r)evolution Home Guide". [3]
 
-|   Vista Superior | Vista Lateral | Vista Inferior |
-| :---         |     :---:      |          ---: |
-|  Foto  |    Foto  | Foto
+![BiTalino_guia_conexion](https://user-images.githubusercontent.com/101833633/231528251-4b7a1e8a-0da4-4af1-9bdc-7c9ee8793f3b.png)
+
+Entonces, posicionamos los electrodos positivos y negativos en las muñecas y el de referencia en la cresta iliaca.
+
+|   Vista Frontal | Vista Superior |
+| :---         |     :---:      |
+|  ![Vista_Frontal_nombres](https://user-images.githubusercontent.com/101833633/231528863-8773ec5a-b523-4d4f-a9d1-9a6be0dde8bc.jpg)  |    ![Vista_Superior_ECG](https://user-images.githubusercontent.com/101833633/231528901-c54d7486-4f94-4764-a065-ddda56eddc25.jpg)  |
     
 
 
