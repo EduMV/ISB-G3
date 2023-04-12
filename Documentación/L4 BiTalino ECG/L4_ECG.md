@@ -101,7 +101,9 @@ https://user-images.githubusercontent.com/101833633/231529945-f8db88ee-2fae-48c0
 
 ### Análisis y discusión de resultados
 
-Se observa que la primera señal muestra un comportamiento normal en la Onda P y T, sin embargo el Complejo QRS presenta un comportamiento negativo. El complejo QRS debe presentar un comportamiento positivo debido 
+Debemos tomar en cuenta que el estudio se realizo con un sistema bipolas de derivaciones de extremidades, este se compone de 3 derivaciones. La derivacion I representa la diferencia de potencial entre el brazo derecho y el brazo iquierdo; un impulso eléctrico que se mueve de derecha a izquierda genera una desvicacion de ECG positiva. La derivación II es la diferencia de potencial entre el brazo derecho y la pierna izquierda, se produce una desviación positiva del ECG, Por otro lado la derivación III es la diferencia de potencial entre el brazo y pierna izqueirads, de forma reiterada la dirección del impulso es positivo. 
+
+Se observa que la primera señal muestra un comportamiento normal en la Onda P y T, sin embargo el Complejo QRS presenta un comportamiento negativo. Como mencionamos anterormente 
 
    
 |      Aguantando la respiración | Post-ejercicio     |
