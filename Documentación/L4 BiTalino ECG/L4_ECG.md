@@ -107,9 +107,9 @@ https://user-images.githubusercontent.com/101833633/231529945-f8db88ee-2fae-48c0
 
 **Análisis y discusión de resultados**
 
-Debemos tomar en cuenta que el estudio se realizo con un sistema bipolas de derivaciones de extremidades, este se compone de 3 derivaciones. La derivacion I representa la diferencia de potencial entre el brazo derecho y el brazo iquierdo; un impulso eléctrico que se mueve de derecha a izquierda genera una desvicacion de ECG positiva. La derivación II es la diferencia de potencial entre el brazo derecho y la pierna izquierda, se produce una desviación positiva del ECG, Por otro lado la derivación III es la diferencia de potencial entre el brazo y pierna izqueirads, de forma reiterada la dirección del impulso es positivo. 
+Debemos tomar en cuenta que el estudio se realizo con un sistema bipolar de derivaciones de extremidades el cual se compone de 3 derivaciones. La derivacion I representa la diferencia de potencial entre el brazo derecho y el brazo iquierdo; un impulso eléctrico que se mueve de derecha a izquierda genera una desvicacion de ECG positiva. La derivación II es la diferencia de potencial entre el brazo derecho y la pierna izquierda, se produce una desviación positiva del ECG. Por otro lado la derivación III es la diferencia de potencial entre el brazo y pierna izqueirads, de forma reiterada la dirección del impulso es positivo[x]. 
 
-Se observa que la primera señal muestra un comportamiento normal en la Onda P y T, sin embargo el Complejo QRS presenta un comportamiento negativo. Como mencionamos anteriormente 
+Se observa que la primera señal muestra una normalidad en la Onda P y T, sin embargo el Complejo QRS presenta un comportamiento negativo. Como mencionamos anteriormente este ultimo debéria tener un comportamiento positivo, esto se podria deber a que los electrodos capturan el voltaje de forma inversa. Una posible razón seria una patalogía llamada Dextrocardia, sin embargo serian necesarias analizar las derivacines unilaterales precordiales, ya que en pacientes diagnosticados con esta condición se determina un comportamiento normal en las derivaciones I, II y III[x1]. 
 
    
 |   Respiraciones pausadas | Post-ejercicio     |
@@ -174,4 +174,6 @@ Las ondas observadas tienen relación con los eventos que ocurren en las fases d
 
 ‌[5] “BITalino (r)evolution Lab Guide.” Available: [https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf](https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf)
 
-
+[x]“Bipolar limb lead system”. Uptodate, 2023. https://www.uptodate.com/contents/image?imageKey=CARD%2F65289.
+‌[x1] C. Mozayan and J. T. Levis, “ECG Diagnosis: Dextrocardia,” The Permanente Journal, vol. 23, no. 4, Dec. 2019, doi: https://doi.org/10.7812/tpp/18.244.
+‌
