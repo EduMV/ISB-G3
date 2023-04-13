@@ -72,7 +72,7 @@ Entonces, posicionamos los electrodos positivos y negativos en las muñecas y el
 | :---         |     :---:      |
 |  ![FrontalECG](https://user-images.githubusercontent.com/101833633/231612994-cf0127ef-a98b-4fe8-a6b1-52b380366ad4.jpg)  |    ![Vista_Superior_ECG](https://user-images.githubusercontent.com/101833633/231528901-c54d7486-4f94-4764-a065-ddda56eddc25.jpg)  |
 
-Cabe resaltar que para esta práctica de laboratorio realizamos la prueba en 2 alumnos y el posicionamiento de electrodos en el segundo alumno fue el siguiente.
+Cabe resaltar que para esta práctica de laboratorio realizamos la prueba en 2 alumnos y el posicionamiento de electrodos en el segundo alumno fue el siguiente:
 |   Referencia | Posicionamiento | 
 | :---         |     :---:      |
 |   ![BiTalino_guia_conexion2of](https://user-images.githubusercontent.com/101833633/231614819-e85cac50-2ecf-4bbe-bde6-d4ec18c68100.png) |   ![E2](https://user-images.githubusercontent.com/101833633/231614564-a13d49b0-f58b-4447-90a6-5bb589fcba12.jpg)  |
@@ -107,9 +107,9 @@ https://user-images.githubusercontent.com/101833633/231529945-f8db88ee-2fae-48c0
 
 **Análisis y discusión de resultados**
 
-Debemos tomar en cuenta que el estudio se realizo con un sistema bipolar de derivaciones de extremidades el cual se compone de 3 derivaciones. La derivacion I representa la diferencia de potencial entre el brazo derecho y el brazo iquierdo; un impulso eléctrico que se mueve de derecha a izquierda genera una desvicacion de ECG positiva. La derivación II es la diferencia de potencial entre el brazo derecho y la pierna izquierda, se produce una desviación positiva del ECG. Por otro lado la derivación III es la diferencia de potencial entre el brazo y pierna izqueirads, de forma reiterada la dirección del impulso es positivo[x]. 
+Debemos tomar en cuenta que el estudio se realizo con un sistema bipolas de derivaciones de extremidades, este se compone de 3 derivaciones. La derivacion I representa la diferencia de potencial entre el brazo derecho y el brazo iquierdo; un impulso eléctrico que se mueve de derecha a izquierda genera una desvicacion de ECG positiva. La derivación II es la diferencia de potencial entre el brazo derecho y la pierna izquierda, se produce una desviación positiva del ECG, Por otro lado la derivación III es la diferencia de potencial entre el brazo y pierna izqueirads, de forma reiterada la dirección del impulso es positivo. 
 
-Se observa que la primera señal muestra una normalidad en la Onda P y T, sin embargo el Complejo QRS presenta un comportamiento negativo. Como mencionamos anteriormente este ultimo debéria tener un comportamiento positivo, esto se podria deber a que los electrodos capturan el voltaje de forma inversa. Una posible razón seria una patalogía llamada Dextrocardia, sin embargo serian necesarias analizar las derivacines unilaterales precordiales, ya que en pacientes diagnosticados con esta condición se determina un comportamiento normal en las derivaciones I, II y III[x1]. 
+Se observa que la primera señal muestra un comportamiento normal en la Onda P y T, sin embargo el Complejo QRS presenta un comportamiento negativo. Como mencionamos anteriormente 
 
    
 |   Respiraciones pausadas | Post-ejercicio     |
@@ -119,10 +119,18 @@ Se observa que la primera señal muestra una normalidad en la Onda P y T, sin em
 #
 
 #### Alumno 2
+
+Análogamente, para medir la señal después del ejercicio, el paciente realizó burpees durante 2 minutos, para asegurar que su ritmo cardiaco este acelerado.
+
+
+https://user-images.githubusercontent.com/89672526/231628614-39187a4e-713e-4e6d-863c-84fa8f2e99eb.mp4
+
+Luego, capturamos la señal inmediatamente después del ejercicio y durante la realización de respiraciones pausadas
+
 |   Respiraciones pausadas | Post-ejercicio     |
 | :---         |       ---: |
 |  ![Rep2](https://user-images.githubusercontent.com/101833633/231613916-e45e91e4-4661-4e4a-b86c-54fbb4159fd1.jpg) |   ![Post_ej2](https://user-images.githubusercontent.com/101833633/231613989-55727e56-0cff-4e50-ac88-9522841d46d7.jpg) |
-P
+
 
 #
 ### Resumen y explicación de la señal ploteada
@@ -174,6 +182,4 @@ Las ondas observadas tienen relación con los eventos que ocurren en las fases d
 
 ‌[5] “BITalino (r)evolution Lab Guide.” Available: [https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf](https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf)
 
-[x]“Bipolar limb lead system”. Uptodate, 2023. https://www.uptodate.com/contents/image?imageKey=CARD%2F65289.
-‌[x1] C. Mozayan and J. T. Levis, “ECG Diagnosis: Dextrocardia,” The Permanente Journal, vol. 23, no. 4, Dec. 2019, doi: https://doi.org/10.7812/tpp/18.244.
-‌
+
