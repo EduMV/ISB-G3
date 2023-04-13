@@ -173,13 +173,51 @@ Las ondas observadas tienen relación con los eventos que ocurren en las fases d
 
 #
 ### Ploteo en Python
-#### Gráfica adquirida completa
 
-#### Reposo, fase activa y potencial de acción
+El ploteo en python nos permite ver una comparación cercana entre la señal ECG y sus diferencias en condiciones de reposo, aguantando la respiración y en estado de agitación.
 
+#### Alumno 1
+##### *Gráfica de la señal ECG del alumno 1 en diferentes condiciones*
 
-#### Análisis en frecuencia de la señal
+![complete_signal](https://user-images.githubusercontent.com/86316349/231643389-b736b38c-cc6c-48df-a5e2-200cda91f46c.png)
 
+Esta es la señal ECG en diferentes condiciones del alumno 1, que presentaba una inversión en el complejo QRS. Asimismo, en Python se calcularon los latidos por minuto correspondientes a cada estado (ver código):
+
+![calculo1](https://user-images.githubusercontent.com/86316349/231651463-75f0e432-5764-4544-8ba5-2d385d888e7c.jpeg)
+
+##### *En el dominio de la frecuencia:*
+
+![fft_signal](https://user-images.githubusercontent.com/86316349/231643421-802adb6b-8260-447e-adb6-498559b6066e.png)
+
+Se pueden observar que son bajas las frecuencias dominantes en la señal ECG, asimismo, la frecuencia con mayor actividad es cercana a la frecuencia correspondiente a los latidos.
+
+#### Alumno 2
+##### *Gráfica de la señal ECG del alumno 2 en diferentes condiciones*
+
+![complete_signal_2](https://user-images.githubusercontent.com/86316349/231647160-48b2eb3c-0636-4b7d-8c93-32e95464c59b.png)
+
+Similarmente, en Python se calcularon los latidos por minuto correspondientes a cada estado (ver código):
+
+![calculo2](https://user-images.githubusercontent.com/86316349/231651747-33345d46-6f7d-4ade-90f9-36fc6651334a.jpeg)
+
+##### *En el dominio de la frecuencia:*
+
+![fft_signal_2](https://user-images.githubusercontent.com/86316349/231648575-0b6864e8-f920-46c1-be63-ee27b6f7a90c.png)
+
+Se pueden observar una vez más que son bajas las frecuencias dominantes en la señal ECG.
+
+#### Simulación con patrón
+##### *Gráfica de la señal obtenida con un patrón para una señal ECG estándar*
+
+![complete_signal_sim](https://user-images.githubusercontent.com/86316349/231650147-c9405e16-73c3-45b9-9c7d-a020a10688ea.png)
+
+Se realizó el cálculo y se comprueba que, como fue configurado, se trata de una señal patrón de 60bpm.
+
+<img width="381" alt="calculo3" src="https://user-images.githubusercontent.com/86316349/231652012-4ee73905-77fb-4c2d-8d20-7130ea695ca5.png">
+
+##### *En el dominio de la frecuencia:*
+
+![fft](https://user-images.githubusercontent.com/86316349/231650361-aa453b7c-0e8d-4dac-8f7e-450ccce092d0.png)
 
 #
 ### Referencias biblográficas
