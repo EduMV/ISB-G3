@@ -80,11 +80,11 @@ Cabe resaltar que para esta práctica de laboratorio realizamos la prueba en 2 a
 #
 ### Video de señal después de actividad física
 
-Para el reposo, no contamos con un video de la toma de la señal, sin embargo, adjuntamos una foto del proceso.
+Antes de realizar la actividad física, capturamos la señal en reposo
 ![Señal_ECG_R](https://user-images.githubusercontent.com/101833633/231530311-87a5de4a-0d3a-488f-9e4f-16aca5d80480.jpg)
 
 
-Para medir la señal despues del ejercicio, el paciente realizo ejercicio (burpees) durante 2 minuto, para asegurar que su ritmo cardiaco este acelerado.
+Para medir la señal despues de la actividad física, el paciente realizo ejercicio (burpees) durante 2 minutos, para asegurar que su ritmo cardiaco este acelerado
 
 https://user-images.githubusercontent.com/101833633/231529945-f8db88ee-2fae-48c0-aac2-90ec54d865d1.mp4
 
