@@ -125,7 +125,7 @@ Análogamente, para medir la señal después del ejercicio, el paciente realizó
 
 https://user-images.githubusercontent.com/89672526/231628614-39187a4e-713e-4e6d-863c-84fa8f2e99eb.mp4
 
-Luego, capturamos la señal inmediatamente después del ejercicio y durante la realización de respiraciones pausadas
+Luego, capturamos la señal inmediatamente después del ejercicio y durante la realización de respiraciones pausadas después de contener la respiración
 
 |   Respiraciones pausadas | Post-ejercicio     |
 | :---         |       ---: |
