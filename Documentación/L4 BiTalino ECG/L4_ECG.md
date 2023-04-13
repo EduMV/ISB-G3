@@ -31,7 +31,7 @@
     * [Ploteo de la señal en OpenSignals](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#ploteo-de-la-se%C3%B1al-en-opensignals)
     * [Resumen y explicación de la señal ploteada](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#resumen-y-explicaci%C3%B3n-de-la-se%C3%B1al-ploteada)
     * [Archivos](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#archivos)
-    * [Ploteo en Python](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#ploteo-en-python)
+    * [Ploteo en Python](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#ploteo-en-python)}
 
 3. [REFERENCIAS BIBLIOGRÁFICAS](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#referencias-biblogr%C3%A1ficas)
 
@@ -50,7 +50,7 @@
 ### Fotos de conexión usada
 
 #### BiTalino - Cables
-<p align="justify">Para esta conexion nos guiamos de la guia de usuario de BiTalino y usamos el cable de hilos para la señal ECG.
+<p align="justify">Para esta conexion nos guiamos de la guia de usuario de BiTalino [1] y usamos el cable de hilos para la señal ECG.[2]
 Cabe resaltar que los cables deben estar bien conectados, ya que eso puede afectar la lectura de la señal. </p>
 
 ![BiTalino_Cables](https://user-images.githubusercontent.com/101833633/231526748-466001e1-cd68-4bbe-9241-2360801a1a27.jpg)
@@ -66,13 +66,16 @@ Los electrodos se ubican en esas posiciones (cerca a huesos) para evitar captar 
 
 ![Imagen_1](https://user-images.githubusercontent.com/89672526/231577174-f517be3b-53c2-4101-880d-68be6c65eedd.png)
 
-Entonces, posicionamos los electrodos positivos y negativos en las muñecas y el de referencia en la cresta iliaca.
+Entonces, posicionamos los electrodos positivos y negativos en las muñecas y el de referencia en la cresta iliaca. 
 
-|   Vista Frontal | Vista Superior |
+|   Vista Frontal | Vista Superior | 
 | :---         |     :---:      |
-|  ![Vista_Frontal_nombres](https://user-images.githubusercontent.com/101833633/231528863-8773ec5a-b523-4d4f-a9d1-9a6be0dde8bc.jpg)  |    ![Vista_Superior_ECG](https://user-images.githubusercontent.com/101833633/231528901-c54d7486-4f94-4764-a065-ddda56eddc25.jpg)  |
-    
+|  ![FrontalECG](https://user-images.githubusercontent.com/101833633/231612994-cf0127ef-a98b-4fe8-a6b1-52b380366ad4.jpg)  |    ![Vista_Superior_ECG](https://user-images.githubusercontent.com/101833633/231528901-c54d7486-4f94-4764-a065-ddda56eddc25.jpg)  |
 
+Cabe resaltar que para esta práctica de laboratorio realizamos la prueba en 2 alumnos y el posicionamiento de electrodos en el segundo alumno fue el siguiente.
+|   Referencia | Posicionamiento | 
+| :---         |     :---:      |
+|   ![BiTalino_guia_conexion2of](https://user-images.githubusercontent.com/101833633/231614819-e85cac50-2ecf-4bbe-bde6-d4ec18c68100.png) |   ![E2](https://user-images.githubusercontent.com/101833633/231614564-a13d49b0-f58b-4447-90a6-5bb589fcba12.jpg)  |
 
 #
 ### Video de señal después de actividad física
@@ -93,24 +96,34 @@ https://user-images.githubusercontent.com/101833633/231529945-f8db88ee-2fae-48c0
 
 #
 ### Ploteo de la señal en OpenSignals
+
+
+#### Alumno 1
 | Reposo primera toma | Reposo electrodos invertidos |
 | :---         |       ---: |
 | ![Rep_falla](https://user-images.githubusercontent.com/101833633/231533739-022c6741-6cc5-4309-8258-fc8a4b1ff357.jpg) | ![Reposo_ECG](https://user-images.githubusercontent.com/101833633/231533781-911559ac-7d96-4235-8a32-348fbe3f9d1b.jpg) 
 | Análisis de señales |
 | ![Fig1](https://user-images.githubusercontent.com/128626501/231598791-787bb2a1-3ae0-4c08-b6e0-184d8de73a2c.jpg)| ![Fig2](https://user-images.githubusercontent.com/128626501/231598808-a98c34ce-8d77-419c-9c82-90da8c1b99e7.jpg)
 
-### Análisis y discusión de resultados
+**Análisis y discusión de resultados**
 
 Debemos tomar en cuenta que el estudio se realizo con un sistema bipolas de derivaciones de extremidades, este se compone de 3 derivaciones. La derivacion I representa la diferencia de potencial entre el brazo derecho y el brazo iquierdo; un impulso eléctrico que se mueve de derecha a izquierda genera una desvicacion de ECG positiva. La derivación II es la diferencia de potencial entre el brazo derecho y la pierna izquierda, se produce una desviación positiva del ECG, Por otro lado la derivación III es la diferencia de potencial entre el brazo y pierna izqueirads, de forma reiterada la dirección del impulso es positivo. 
 
-Se observa que la primera señal muestra un comportamiento normal en la Onda P y T, sin embargo el Complejo QRS presenta un comportamiento negativo. Como mencionamos anterormente 
+Se observa que la primera señal muestra un comportamiento normal en la Onda P y T, sin embargo el Complejo QRS presenta un comportamiento negativo. Como mencionamos anteriormente 
 
    
-|      Aguantando la respiración | Post-ejercicio     |
+|   Respiraciones pausadas | Post-ejercicio     |
 | :---         |       ---: |
 | ![Ag_resp](https://user-images.githubusercontent.com/101833633/231534957-fcd76388-b02a-4ffb-8795-9f750b401bcc.jpg) |![ECG_Agitada](https://user-images.githubusercontent.com/101833633/231535010-576ecdef-6f97-46ee-9f36-c5799d104a89.jpg)  |
 
-   
+#
+
+#### Alumno 2
+|   Respiraciones pausadas | Post-ejercicio     |
+| :---         |       ---: |
+|  ![Rep2](https://user-images.githubusercontent.com/101833633/231613916-e45e91e4-4661-4e4a-b86c-54fbb4159fd1.jpg) |   ![Post_ej2](https://user-images.githubusercontent.com/101833633/231613989-55727e56-0cff-4e50-ac88-9522841d46d7.jpg) |
+P
+
 #
 ### Resumen y explicación de la señal ploteada
 En la señal, podemos observar las siguientes ondas [4]
@@ -151,10 +164,14 @@ Las ondas observadas tienen relación con los eventos que ocurren en las fases d
 
 #
 ### Referencias biblográficas
-[1] “Using BITalino Mini with Electrocardiography (ECG) Sensor Application Notes,” pp. 1–23, 2020.
-[2] PLUX Wireless Biosignals, “BITalino (r)evolution User Manual,” 2020, [Online]. Available: http://bitalino.com/.
+[1] PLUX Wireless Biosignals, “BITalino (r)evolution User Manual,” 2020, [Online]. Available: http://bitalino.com/.
+
+[2] “Using BITalino Mini with Electrocardiography (ECG) Sensor Application Notes,” pp. 1–23, 2020.
+
 [3] M. Proença and K. Mrotzek, “BITalino (r)evolution Home Guide,” 2020.
+
 [4] L. Azcona, “Estructura del corazón Capítulo 4 El electrocardiograma.” Accessed: Apr. 11, 2023. [Online]. Available: [https://www.fbbva.es/microsites/salud_cardio/mult/fbbva_libroCorazon_cap4.pdf#:~:text=La actividad eléctrica del corazón recogida en el](https://www.fbbva.es/microsites/salud_cardio/mult/fbbva_libroCorazon_cap4.pdf#:~:text=La%20actividad%20el%C3%A9ctrica%20del%20coraz%C3%B3n%20recogida%20en%20el)
+
 ‌[5] “BITalino (r)evolution Lab Guide.” Available: [https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf](https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf)
 
 
