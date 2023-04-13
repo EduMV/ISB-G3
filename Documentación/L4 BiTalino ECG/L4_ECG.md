@@ -188,6 +188,8 @@ Esta es la señal ECG en diferentes condiciones del alumno 1, que presentaba una
 
 ![calculo1](https://user-images.githubusercontent.com/86316349/231651463-75f0e432-5764-4544-8ba5-2d385d888e7c.jpeg)
 
+Se puede observar que los latidos por minuto se encuentran en valores normales para el estado de resposo y al aguantar la respiración, sin embargo, al aguantar la respiración se reduce ligeramente la frecuencia de latidos. Al estar en un estado agitado, los latidos por minuto aumentan drásticamente.
+
 ##### *En el dominio de la frecuencia:*
 
 ![fft_signal](https://user-images.githubusercontent.com/86316349/231643421-802adb6b-8260-447e-adb6-498559b6066e.png)
@@ -202,6 +204,8 @@ Se pueden observar que son bajas las frecuencias dominantes en la señal ECG, as
 Similarmente, en Python se calcularon los latidos por minuto correspondientes a cada estado, se utilizó el mismo código que con el alumno 1, abriendo los archivos de texto correspondientes al alumno 2 y escogiendo intervalos de tiempo apropiados para el ploteo:
 
 ![calculo2](https://user-images.githubusercontent.com/86316349/231651747-33345d46-6f7d-4ade-90f9-36fc6651334a.jpeg)
+
+Las diferencias en frecuencia de latidos son consistentes con los resultados obtenidos para el alumno 1. Respecto al estado de reposo, los latidos son menos frecuentes al aguantar la respiración, y mucho más frecuentes después del ejercicio.
 
 ##### *En el dominio de la frecuencia:*
 
