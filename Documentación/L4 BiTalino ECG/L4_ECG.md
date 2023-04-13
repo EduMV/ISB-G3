@@ -122,14 +122,25 @@ Se observa que la primera señal muestra una normalidad en la Onda P y T, sin em
 
 Análogamente, para medir la señal después del ejercicio, el paciente realizó burpees durante 2 minutos, para asegurar que su ritmo cardiaco este acelerado.
 
-
 https://user-images.githubusercontent.com/89672526/231628614-39187a4e-713e-4e6d-863c-84fa8f2e99eb.mp4
+
 
 Luego, capturamos la señal inmediatamente después del ejercicio y durante la realización de respiraciones pausadas después de contener la respiración
 
 |   Respiraciones pausadas | Post-ejercicio     |
 | :---         |       ---: |
 |  ![Rep2](https://user-images.githubusercontent.com/101833633/231613916-e45e91e4-4661-4e4a-b86c-54fbb4159fd1.jpg) |   ![Post_ej2](https://user-images.githubusercontent.com/101833633/231613989-55727e56-0cff-4e50-ac88-9522841d46d7.jpg) |
+
+#
+
+#### Simulador
+Finalmente, para comparar las señales obtenidas, se hizo una prueba con un simulador de la señal del ECG
+
+|   Conexiones Simulador |   Señal ploteada   | 
+| :---         |       ---: |
+| ![Simulador_con](https://user-images.githubusercontent.com/101833633/231635561-e7ec2d9c-4ff1-46f7-96f6-3f64644a514a.jpg) | ![Simulador](https://user-images.githubusercontent.com/101833633/231635844-6dec6866-4baf-4bbd-bcd8-8b2b27626eed.jpg) |
+
+
 
 
 #
@@ -185,5 +196,3 @@ Las ondas observadas tienen relación con los eventos que ocurren en las fases d
 [6]“Bipolar limb lead system”. Uptodate, 2023. https://www.uptodate.com/contents/image?imageKey=CARD%2F65289.
 
 [7] C. Mozayan and J. T. Levis, “ECG Diagnosis: Dextrocardia,” The Permanente Journal, vol. 23, no. 4, Dec. 2019, doi: https://doi.org/10.7812/tpp/18.244. ‌
-
-
