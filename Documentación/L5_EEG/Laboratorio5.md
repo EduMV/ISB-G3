@@ -84,22 +84,9 @@ https://user-images.githubusercontent.com/101833633/233154563-866179cd-5d1a-457a
 #
 ### Resumen y explicación de la señal ploteada
 
-
-
-TEXTOOO
-
-
-#### Reposo
 <p align="justify">TEXTO</p>
 
-<p align="justify">TEXTO</p>
 
-#### Flexión
-<p align="justify">TEXTO</p>
-
-<p align="justify">TEXTO</p>
-
-IMAGEN DESCRIPTIVA
 
 
 #
@@ -118,6 +105,9 @@ IMAGEN DESCRIPTIVA
 #### Análisis en frecuencia de la señal
 
 
+
+#
+
 ## BiTalino
 ### Fotos de conexión usada
 
@@ -129,23 +119,28 @@ Cabe resaltar que los cables deben estar bien conectados, ya que eso puede afect
 
 #### Electrodos - Cabeza
 <p align="justify">Para la conexion electrodos - cuerpo nos guiamos del Sistema Internacional de Posicionamieno 10/20 para el posicionamiento de electrodos de EEG en el ***musculo biceps braquial***.</p>
-![Guia_Cabeza](https://user-images.githubusercontent.com/101833633/233151417-b5095453-2bae-4ee0-89d2-19750891834c.jpg)
 
-***FOTO***
-      Extraido de: P. W. B. S.A., “Electromyography (EMG) Sensor User Manual,” p. 19, 2020.
+|   Guia | Posicionamiento |
+| :---         |          ---: |
+| ![Guia_Cabeza](https://user-images.githubusercontent.com/101833633/233151417-b5095453-2bae-4ee0-89d2-19750891834c.jpg) | ![Electrodos_cabeza](https://user-images.githubusercontent.com/101833633/233156729-f74a55a0-a56f-40b5-9f54-7d9fb7cb4862.jpg) | 
+Guia extraido de: https://www.uptodate.com/contents/image?imageKey=RHEUM%2F78990
 
-
-|   Vista Superior | Vista Lateral | Vista Inferior |
-| :---         |     :---:      |          ---: |
-| Foto1 |   Foto2 | foto3 |
-    
 
 
 #
 ### Videos de señales
-Videos
+1. Video de la toma de la señal en 30 segundos de reposo
 
-#
+
+
+2. Video de la toma de señal al parpadear
+
+
+
+3. Video de la toma de señal al hacer preguntas
+
+
+
 
 
 #
@@ -154,6 +149,10 @@ Videos
 | ----------------- | ------------------------------------------------------------------ |
 |  |  |
 |  |  | 
+
+#
+### Explicación de señal obtenida
+
 
 #
 ## Referencias
