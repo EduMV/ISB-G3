@@ -136,6 +136,7 @@ https://user-images.githubusercontent.com/101833633/233159517-b9094434-98ef-4c13
 
 3. Video de la toma de señal al hacer preguntas
 
+https://user-images.githubusercontent.com/101833633/233159841-0813d4a8-1e1b-443e-a220-80982bf7150e.mp4
 
 
 
