@@ -68,11 +68,6 @@ https://user-images.githubusercontent.com/101833633/233154499-89ecab99-5001-4c26
 
 https://user-images.githubusercontent.com/101833633/233154563-866179cd-5d1a-457a-b5bd-b9b06e368aa4.mp4
 
-
-
-
-
-
 #
 
 
@@ -131,6 +126,7 @@ Guia extraido de: https://www.uptodate.com/contents/image?imageKey=RHEUM%2F78990
 ### Videos de señales
 1. Video de la toma de la señal en 30 segundos de reposo
 
+https://user-images.githubusercontent.com/101833633/233158980-2dae1dd7-8348-4e97-ab1e-bc2ea8dcc4b3.mp4
 
 
 2. Video de la toma de señal al parpadear
