@@ -21,11 +21,11 @@
     * [Fotos de conexión usada](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#fotos-de-conexi%C3%B3n-usada)
     * [Video de señales](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#videos-de-se%C3%B1ales)
     * [Ploteo de la señal en OpenBCI GUI](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#ploteo-de-la-se%C3%B1al-en-openbci-gui)
-    * [Resumen y explicación de la señal ploteada]()
-    * [Archivos]()
-    * [Ploteo en Python]()
+    * [Resumen y explicación de la señal ploteada](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#resumen-y-explicaci%C3%B3n-de-la-se%C3%B1al-ploteada)
+    * [Archivos](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#archivos)
+    * [Ploteo en Python](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#ploteo-en-python)
  
- 3. [BiTalino]()
+ 3. [BiTalino](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#bitalino)
  
  4. [Referencias]() 
 
@@ -96,8 +96,7 @@ IMAGEN DESCRIPTIVA
 #
 ### Archivos
 
-- [Datos obtenidos de la señal](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L3_BiTalino/Se%C3%B1al%20en%20formato%20txt/signal_emg.txt)
-- [Notebook de ploteo en python](https://github.com/EduMV/ISB-G3/blob/main/Software/L3_BiTalino/lectura_se%C3%B1al.ipynb)
+
 
 #
 ### Ploteo en Python
@@ -148,4 +147,5 @@ Videos
 |  |  |
 |  |  | 
 
-
+#
+## Referencias
