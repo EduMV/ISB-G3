@@ -67,7 +67,7 @@ Videos
 
 
 #
-### Ploteo de la señal en OpenSignals
+### Ploteo de la señal en OpenBCI GUI
 | Reposo             | Flexión                                              |
 | ----------------- | ------------------------------------------------------------------ |
 |  |  |
