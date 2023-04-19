@@ -131,6 +131,7 @@ https://user-images.githubusercontent.com/101833633/233158980-2dae1dd7-8348-4e97
 
 2. Video de la toma de señal al parpadear
 
+https://user-images.githubusercontent.com/101833633/233159517-b9094434-98ef-4c13-8cf5-7177b9f29c20.mp4
 
 
 3. Video de la toma de señal al hacer preguntas
