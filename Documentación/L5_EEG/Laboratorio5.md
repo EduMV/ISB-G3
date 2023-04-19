@@ -35,7 +35,7 @@
 | Modelo | Descripción | Cantidad |
 | :---         |     :---:      |          ---: |
 | (R)EVOLUTION   | Kit BiTalino     | 1    |
-| Ultracortex   | -     | 1    |
+| Mark IV   | Ultracortex     | 1    |
 | -     | Laptop o PC       | 1      |
 
 #
@@ -44,38 +44,47 @@
 
 ### Fotos de conexión usada
 
-#### Electrodos - Cabeza
-<p align="justify">Para la conexion electrodos - cuerpo nos guiamos del "BiTalino - Electromyography (EMG) Sensor User Manual" del capitulo 2 "Application Notes" para el posicionamiento de electrodos de EMG en el ***musculo biceps braquial***.</p>
+#### Ultracortex - Cabeza
 
-<p align="justify">TEXTO</p>
+El Ultracortex es un casco de electroencefalografía (EEG) creado por la empresa estadounidense OpenBCI. Este casco está diseñado para medir la actividad eléctrica del cerebro y permitir a los usuarios controlar dispositivos externos mediante la actividad cerebral.
 
-***FOTO***
-      Extraido de: P. W. B. S.A., “Electromyography (EMG) Sensor User Manual,” p. 19, 2020.
+El Ultracortex Mark IV utiliza electrodos secos y está diseñado para ser fácil de usar y personalizable para diferentes tamaños y formas de cabeza. [1]
 
 
-|   Vista Superior | Vista Lateral | Vista Inferior |
-| :---         |     :---:      |          ---: |
-| Foto1 |   Foto2 | foto3 |
-    
+![UltraCortexC](https://user-images.githubusercontent.com/101833633/233152489-14532158-1393-401c-a0c9-7eb27bccf9d6.jpg)
 
 
 #
 ### Videos de señales
-Videos
+1. Video de la toma de la señal en 30 segundos de reposo
+
+https://user-images.githubusercontent.com/101833633/233154183-65b76ee1-6e41-48bd-b43b-dd9630645551.mp4
+
+2. Video de la toma de señal al parpadear
+
+https://user-images.githubusercontent.com/101833633/233154499-89ecab99-5001-4c26-905d-204fc39281aa.mp4
+
+3. Video de la toma de señal al hacer preguntas
+
+https://user-images.githubusercontent.com/101833633/233154563-866179cd-5d1a-457a-b5bd-b9b06e368aa4.mp4
+
+
+
+
+
 
 #
 
 
 #
 ### Ploteo de la señal en OpenBCI GUI
-| Reposo             | Flexión                                              |
-| ----------------- | ------------------------------------------------------------------ |
-|  |  |
-|  |  | 
+
    
    
 #
 ### Resumen y explicación de la señal ploteada
+
+
 
 TEXTOOO
 
@@ -119,9 +128,8 @@ Cabe resaltar que los cables deben estar bien conectados, ya que eso puede afect
 ![BiTalino_Cables](https://user-images.githubusercontent.com/101833633/230154500-41b3b224-94dd-451f-acdf-21d5016db301.jpg)
 
 #### Electrodos - Cabeza
-<p align="justify">Para la conexion electrodos - cuerpo nos guiamos del "BiTalino - Electromyography (EMG) Sensor User Manual" del capitulo 2 "Application Notes" para el posicionamiento de electrodos de EMG en el ***musculo biceps braquial***.</p>
-
-<p align="justify">TEXTO</p>
+<p align="justify">Para la conexion electrodos - cuerpo nos guiamos del Sistema Internacional de Posicionamieno 10/20 para el posicionamiento de electrodos de EEG en el ***musculo biceps braquial***.</p>
+![Guia_Cabeza](https://user-images.githubusercontent.com/101833633/233151417-b5095453-2bae-4ee0-89d2-19750891834c.jpg)
 
 ***FOTO***
       Extraido de: P. W. B. S.A., “Electromyography (EMG) Sensor User Manual,” p. 19, 2020.
@@ -149,3 +157,5 @@ Videos
 
 #
 ## Referencias
+
+[1] https://shop.openbci.com/products/ultracortex-mark-iv 
