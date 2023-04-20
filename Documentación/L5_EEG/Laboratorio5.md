@@ -70,12 +70,47 @@ https://user-images.githubusercontent.com/101833633/233154563-866179cd-5d1a-457a
 
 #
 
+### Archivos
+
+
+
 
 #
 ### Ploteo de la señal en OpenBCI GUI
+#### En reposo
 
-   
-   
+![OpenBCI_reposo](https://user-images.githubusercontent.com/86316349/233408193-785c0e3b-faf4-4751-b155-50c3caca9e20.png)
+
+#### Parpadeando
+
+![OpenBCI_parpadeando](https://user-images.githubusercontent.com/86316349/233408397-0692a13f-c5ca-4930-85a4-c3d39a55eb47.png)
+
+#### Esfuerzo mental (preguntas)
+
+![OpenBCI_calculos](https://user-images.githubusercontent.com/86316349/233408523-62a8c734-af8c-428f-80ff-237d7b189fac.png)
+
+### Ploteo en Python de la señal adquirida por el Ultracortex Mark IV
+#### Gráfica adquirida completa
+
+![EEG_total](https://user-images.githubusercontent.com/86316349/233415262-acabc64f-016c-4ee3-bb20-b4bba8cc7b2a.png)
+
+#### En reposo
+- **Primera fase de referencia**
+![EEG_reposo](https://user-images.githubusercontent.com/86316349/233409938-089d6fcd-9f7c-4455-8f9c-9b8f91abee8a.png)
+
+- **Segunda fase de referencia**
+
+![EEG_reposo2](https://user-images.githubusercontent.com/86316349/233410194-606f9727-75fb-4a9b-95b7-af5f74b2b787.png)
+
+#### Durante el parpadeo
+
+![EEG_parpadeo](https://user-images.githubusercontent.com/86316349/233410234-aff0df37-7199-4c06-965a-fe8ca437da89.png)
+
+
+#### Durante el esfuerzo mental (Preguntas)
+
+![EEG_esfuerzo_mental](https://user-images.githubusercontent.com/86316349/233410304-4dc2b162-5a2a-4dd2-a903-af34924bb779.png)
+
 #
 ### Resumen y explicación de la señal ploteada
 
@@ -85,24 +120,6 @@ https://user-images.githubusercontent.com/101833633/233154563-866179cd-5d1a-457a
 
 
 #
-### Archivos
-
-
-
-#
-### Ploteo en Python
-#### Gráfica adquirida completa
-
-
-#### Reposo, fase activa y potencial de acción
-
-
-#### Análisis en frecuencia de la señal
-
-
-
-#
-
 ## BiTalino
 ### Fotos de conexión usada
 
@@ -154,16 +171,35 @@ https://user-images.githubusercontent.com/101833633/233159841-0813d4a8-1e1b-443e
 
 #
 ### Ploteo de la señal en OpenSignals
-| Reposo             | Flexión                                              |
-| ----------------- | ------------------------------------------------------------------ |
-|  |  |
-|  |  | 
+| Reposo (Primera toma) | Reposo(Segunda toma) |
+| ----------------- | ------------------------| 
+| ![image](https://user-images.githubusercontent.com/86316349/233412689-7e273fb6-6c22-49b7-932a-1a59dd7be738.png) | ![image](https://user-images.githubusercontent.com/86316349/233412525-e92d8195-a4f0-4f8a-8d11-6767fa431ef7.png) |
 
+
+| Parpadeo    | Exposición repentina a la luz | Esfuerzo mental (Preguntas) |
+|---------- | ---------- | ---------- |
+| ![image](https://user-images.githubusercontent.com/86316349/233412287-e5fb9127-4fcf-4b67-8319-9541cf8ddf85.png) | ![image](https://user-images.githubusercontent.com/86316349/233411902-b05e07bc-b3a0-411b-b9b4-ec0bc0c38adb.png) | ![image](https://user-images.githubusercontent.com/86316349/233412074-11978ed5-a217-44e9-b296-7c5a3b7dca9b.png) |
 #
+### Ploteo en Python de la señal obtenida en OpenSignals
+
+#### Ploteo según el contexto
+
+![EEG_bitalino_total](https://user-images.githubusercontent.com/86316349/233420314-6d880d25-c28a-44cf-876d-bf7bdf549b68.png)
+
+#### Ploteo del análisis en frecuencia
+
+![FFT_EEG](https://user-images.githubusercontent.com/86316349/233420358-97cd5d24-ad17-43c1-9bda-73e0d349ebee.png)
+
 ### Explicación de señal obtenida
 
 
 #
 ## Referencias
 
-[1] https://shop.openbci.com/products/ultracortex-mark-iv 
+[1] https://shop.openbci.com/products/ultracortex-mark-iv
+
+[2] https://docs.openbci.com/Cyton/CytonDataFormat/
+
+[3] https://www.bitalino.com/storage/uploads/media/revolution-eeg-sensor-datasheet-revb.pdf
+
+
