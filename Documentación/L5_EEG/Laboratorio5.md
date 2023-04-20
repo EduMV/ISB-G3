@@ -55,7 +55,7 @@ El Ultracortex Mark IV utiliza electrodos secos y está diseñado para ser fáci
 
 
 #
-### Videos de señales
+### Videos de señales (Sujeto de prueba)
 1. Video de la toma de la señal en 30 segundos de reposo
 
 https://user-images.githubusercontent.com/101833633/233154183-65b76ee1-6e41-48bd-b43b-dd9630645551.mp4
@@ -72,7 +72,10 @@ https://user-images.githubusercontent.com/101833633/233154563-866179cd-5d1a-457a
 
 ### Archivos
 
-
+- [Notebook de ploteo en python EEG Ultracortex](https://github.com/EduMV/ISB-G3/blob/main/Software/L5_EEG/lectura_se%C3%B1al_eeg_ultracortex.ipynb)
+- [Notebook de ploteo en python EEG BiTalino](https://github.com/EduMV/ISB-G3/blob/main/Software/L5_EEG/lectura_se%C3%B1al_eeg_BiTalino.ipynb)
+- [Señales en formato txt](https://github.com/EduMV/ISB-G3/tree/main/Documentaci%C3%B3n/L5_EEG/Se%C3%B1ales%20en%20formato%20txt)
+- [Videos de uso de OpenBCI GUI en las diferentes pruebas](https://github.com/EduMV/ISB-G3/tree/main/Documentaci%C3%B3n/L5_EEG/Videos%20de%20OpenBCI%20GUI)
 
 
 #
