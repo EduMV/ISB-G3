@@ -147,6 +147,15 @@ Observado principalmente en el sueño profundo, es prominente en las regiones fr
 
 <p align="justify">En este caso podemos observar que los picos, o potenciales más grandes de la señal se encuentran principalmente durante los tiempos de parpadeo, o tiempos intermedios entre pruebas. Esto implica que la señal obtenida del EEG es altamente sensible a los parpadeos, sin embargo, no es tan sensible al razonamiento lógico empleado durante las preguntas, ya que no se nota una diferencia significativa</p>
 
+<p align="justify">Por otro lado, en cada canal observado en OpenBCI Gui se puede observar lo siguiente:</p>
+* Canal 1: FP1 (Prefrontal 1)
+* Canal 2: FP2 (Prefrontal 2)
+* Canal 3: C3 (Central 3)
+* Canal 4: C4 (Central 4)
+* Canal 5: P7 (Parietal 7)
+* Canal 6: P8 (Parietal 8)
+* Canal 7: O1 (Occipital 1)
+* Canal 8: O2 (Occipital 2)
 
 #
 ## BiTalino
