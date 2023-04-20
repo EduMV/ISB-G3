@@ -204,7 +204,11 @@ Para el [ploteo en Python](https://github.com/EduMV/ISB-G3/blob/main/Software/L5
 
 ### Explicación de señal obtenida
 
-Se puede observar en este caso que los principales picos en la señal EEG, se dan durante los tiempos de parpadeo o en la exposición repentina a la luz tras el vendaje de ojos. La señal responde de manera significativa ante los movimientos oculares. En cuanto a la prueba de las preguntas, se no se observa mayor amplitud en la señal EEG obtenida, sin embargo si se observan mayores frecuencias respecto a las otras pruebas.
+<p align="justify">Se puede observar en este caso que los principales picos en la señal EEG, se dan durante los tiempos de parpadeo o en la exposición repentina a la luz tras el vendaje de ojos. La señal responde de manera significativa ante los movimientos oculares. En cuanto a la prueba de las preguntas, se no se observa mayor amplitud en la señal EEG obtenida, sin embargo si se observan mayores frecuencias respecto a las otras pruebas.</p>
+
+<p align="justify">
+Es posible que la señal sea más sensible a los movimientos oculares debido a que el electrodo de referencia fue ubicado en el hueso cigomático, donde la señal podría adquirir ruidos de la señal EMG de los músculos faciales oculares. Sería útil experimentar con más ubicaciones estándar para observar las principales diferencias.
+</p>
 
 #
 ## Referencias
