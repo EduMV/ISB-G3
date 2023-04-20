@@ -19,15 +19,15 @@
 2. [ENTREGABLES](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#entregables)
 
     * [Fotos de conexión usada](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#fotos-de-conexi%C3%B3n-usada)
-    * [Video de señales](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#videos-de-se%C3%B1ales)
-    * [Ploteo de la señal en OpenBCI GUI](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#ploteo-de-la-se%C3%B1al-en-openbci-gui)
-    * [Resumen y explicación de la señal ploteada](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#resumen-y-explicaci%C3%B3n-de-la-se%C3%B1al-ploteada)
+    * [Video de señales](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#videos-de-se%C3%B1ales-sujeto-de-prueba)
     * [Archivos](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#archivos)
+    * [Ploteo de la señal en OpenBCI GUI](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#ploteo-de-la-se%C3%B1al-en-openbci-gui)
     * [Ploteo en Python](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#ploteo-en-python)
+    * [Resumen y explicación de la señal ploteada](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#resumen-de-la-se%C3%B1al-ploteada)
  
  3. [BiTalino](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#bitalino)
  
- 4. [Referencias]() 
+ 4. [Referencias](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#referencias) 
 
 #
 ## Materiales y equipos
@@ -126,6 +126,25 @@ Adicionalmente, se empleó un filtro pasabanda de 0.8 a 48 Hz [3] para eliminar 
 #
 ### Resumen de la señal ploteada
 
+***Frecuencias del EEG:***
+<p align="justify">Los electrodos de un EEG capturan la actividad eléctrica expresada en varias subfrecuencias de EEG, este utiliza un algoritmo llamado Transformada Rápida de Fourier (FFT). Las señales EEG sin procesar pueden identificarse como ondas distintas con diferentes frecuencias, siendo las principales: beta, alfa, theta y delta [4]</p>
+
+* Onda beta (13 a 30 Hz):
+Estrechamente asociadas con estar consciente, atento y alerta. Tener ondas betas de baja amplitud se asocia con la concentración activa, estas ondas también están asociadas con decisiones motoras como supresión de movimiento y retroalimentación sensorial de movimiento
+
+* Onda alfa (8 a 12 Hz):
+Se asocia con un estado mental relajado, tranquilo y lúcido. Se pueden inducir cerrando los ojos y relajándose, y no se observan frecuentemente en procesos cognitivos intensos. En los adultos generales varía en frecuencia de 9 a 11 Hz.
+
+
+* Onda theta (4 a 7 Hz):
+Ritmo provocado por la somnolencia y las primeras etapas del sueño. Resulta más prominente en las regiones frontocentrales de la cabeza y migra lentamente hacia atrás reemplazando el ritmo alfa.
+
+
+* Onda delta (0,5 a 4 Hz):
+Observado principalmente en el sueño profundo, es prominente en las regiones frontocentrales de la cabeza. Un ritmo delta patológico se evidencia en estados de vigilia en caso de encefalopatía generalizada y disfunción cerebral focal.
+
+[5]
+
 <p align="justify">En este caso podemos observar que los picos, o potenciales más grandes de la señal se encuentran principalmente durante los tiempos de parpadeo, o tiempos intermedios entre pruebas. Esto implica que la señal obtenida del EEG es altamente sensible a los parpadeos, sin embargo, no es tan sensible al razonamiento lógico empleado durante las preguntas, ya que no se nota una diferencia significativa</p>
 
 
@@ -192,7 +211,7 @@ https://user-images.githubusercontent.com/101833633/233159841-0813d4a8-1e1b-443e
 #
 ### Ploteo en Python de la señal obtenida en OpenSignals
 
-Para el [ploteo en Python](https://github.com/EduMV/ISB-G3/blob/main/Software/L5_EEG/lectura_se%C3%B1al_eeg_BiTalino.ipynb) de la señal obtenida por BiTalino, se utilizó una frecuencia de muestreo de 1000 Hz, se tomó en cuenta la resolución de 10 bits del sensor y su rango de 78.98 uV, tomado de la documentación [4].
+Para el [ploteo en Python](https://github.com/EduMV/ISB-G3/blob/main/Software/L5_EEG/lectura_se%C3%B1al_eeg_BiTalino.ipynb) de la señal obtenida por BiTalino, se utilizó una frecuencia de muestreo de 1000 Hz, se tomó en cuenta la resolución de 10 bits del sensor y su rango de 78.98 uV, tomado de la documentación [6].
 
 #### Ploteo según el contexto
 
@@ -219,6 +238,10 @@ Es posible que la señal sea más sensible a los movimientos oculares debido a q
 
 [3] https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
 
-[4] https://www.bitalino.com/storage/uploads/media/revolution-eeg-sensor-datasheet-revb.pdf
+[4] https://www.emotiv.com/eeg-guide/
+
+[5] https://www.ncbi.nlm.nih.gov/books/NBK539805/
+
+[6] https://www.bitalino.com/storage/uploads/media/revolution-eeg-sensor-datasheet-revb.pdf
 
 
