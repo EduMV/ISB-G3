@@ -93,6 +93,15 @@ https://user-images.githubusercontent.com/101833633/233154563-866179cd-5d1a-457a
 ![OpenBCI_calculos](https://user-images.githubusercontent.com/86316349/233408523-62a8c734-af8c-428f-80ff-237d7b189fac.png)
 
 ### Ploteo en Python de la señal adquirida por el Ultracortex Mark IV
+
+Para el [ploteo en python](https://github.com/EduMV/ISB-G3/blob/main/Software/L5_EEG/lectura_se%C3%B1al_eeg_ultracortex.ipynb) se tomó en consideración la frecuencia de muestreo de 250Hz, además de el factor de escalamiento por bits de 0.02235 y 24 bits. (Datos obtenidos de la documentación)[2].
+Adicionalmente, se empleó un filtro pasabanda de 0.8 a 48 Hz [3] para eliminar los componentes no deseados de la señal:
+
+|   Sin filtro | Con filtro |
+| :---         |          ---: |
+| ![sin_filtro](https://user-images.githubusercontent.com/86316349/233429127-d19832cc-3cd7-4733-98ba-912edf60c658.jpeg) | ![con_filtro](https://user-images.githubusercontent.com/86316349/233429271-b44e8370-3bc3-4047-b72b-e9e4e3a3f03f.jpeg)  | 
+
+
 #### Gráfica adquirida completa
 
 ![EEG_total](https://user-images.githubusercontent.com/86316349/233415262-acabc64f-016c-4ee3-bb20-b4bba8cc7b2a.png)
@@ -115,11 +124,9 @@ https://user-images.githubusercontent.com/101833633/233154563-866179cd-5d1a-457a
 ![EEG_esfuerzo_mental](https://user-images.githubusercontent.com/86316349/233410304-4dc2b162-5a2a-4dd2-a903-af34924bb779.png)
 
 #
-### Resumen y explicación de la señal ploteada
+### Resumen de la señal ploteada
 
-<p align="justify">TEXTO</p>
-
-
+<p align="justify">En este caso podemos observar que los picos, o potenciales más grandes de la señal se encuentran principalmente durante los tiempos de parpadeo, o tiempos intermedios entre pruebas. Esto implica que la señal obtenida del EEG es altamente sensible a los parpadeos, sin embargo, no es tan sensible al razonamiento lógico empleado durante las preguntas, ya que no se nota una diferencia significativa</p>
 
 
 #
@@ -185,6 +192,8 @@ https://user-images.githubusercontent.com/101833633/233159841-0813d4a8-1e1b-443e
 #
 ### Ploteo en Python de la señal obtenida en OpenSignals
 
+Para el [ploteo en Python](https://github.com/EduMV/ISB-G3/blob/main/Software/L5_EEG/lectura_se%C3%B1al_eeg_BiTalino.ipynb) de la señal obtenida por BiTalino, se utilizó una frecuencia de muestreo de 1000 Hz, se tomó en cuenta la resolución de 10 bits del sensor y su rango de 78.98 uV, tomado de la documentación [4].
+
 #### Ploteo según el contexto
 
 ![EEG_bitalino_total](https://user-images.githubusercontent.com/86316349/233420314-6d880d25-c28a-44cf-876d-bf7bdf549b68.png)
@@ -195,6 +204,7 @@ https://user-images.githubusercontent.com/101833633/233159841-0813d4a8-1e1b-443e
 
 ### Explicación de señal obtenida
 
+Se puede observar en este caso que los principales picos en la señal EEG, se dan durante los tiempos de parpadeo o en la exposición repentina a la luz tras el vendaje de ojos. La señal responde de manera significativa ante los movimientos oculares. En cuanto a la prueba de las preguntas, se no se observa mayor amplitud en la señal EEG obtenida, sin embargo si se observan mayores frecuencias respecto a las otras pruebas.
 
 #
 ## Referencias
@@ -203,6 +213,8 @@ https://user-images.githubusercontent.com/101833633/233159841-0813d4a8-1e1b-443e
 
 [2] https://docs.openbci.com/Cyton/CytonDataFormat/
 
-[3] https://www.bitalino.com/storage/uploads/media/revolution-eeg-sensor-datasheet-revb.pdf
+[3] https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
+
+[4] https://www.bitalino.com/storage/uploads/media/revolution-eeg-sensor-datasheet-revb.pdf
 
 
