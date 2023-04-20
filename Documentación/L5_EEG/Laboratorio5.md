@@ -115,8 +115,11 @@ Cabe resaltar que los cables deben estar bien conectados, ya que eso puede afect
 #### Electrodos - Cabeza
 <p align="justify">La conexión de los electrodos se basó de la guía “Home-Guide #3 Electroencephalography (EEG)”, en el inciso “5.1.2 How to acquire an EEG” donde se menciona el método reconocido internacionalmente conocido como International 10-20 system el cual comprende un sistema de electrodos que se colocan alrededor de toda la cabeza para evaluar las diferentes ubicaciones de los lóbulos como se observa en la siguiente imagen:.</p>
 
-![Imagen de WhatsApp 2023-04-19 a las 23 15 17](https://user-images.githubusercontent.com/128626501/233256722-7d8ceecd-2c5c-4b3c-ab01-97ba094d01e9.jpg)
-![Imagen de WhatsApp 2023-04-19 a las 23 15 40](https://user-images.githubusercontent.com/128626501/233256741-59434d18-7366-4b10-af49-f948e9251270.jpg)
+|   Guia | Posicionamiento |
+| :---         |          ---: |
+| ![Imagen de WhatsApp 2023-04-19 a las 23 15 17](https://user-images.githubusercontent.com/128626501/233256722-7d8ceecd-2c5c-4b3c-ab01-97ba094d01e9.jpg) |![Imagen de WhatsApp 2023-04-19 a las 23 15 40](https://user-images.githubusercontent.com/128626501/233256741-59434d18-7366-4b10-af49-f948e9251270.jpg) | 
+Guia extraido de: https://www.uptodate.com/contents/image?imageKey=RHEUM%2F78990
+
 
 <p align="justify"> Por otro lado, se establece la existencia de una medición bipolar de electrodos (IN+/-), las cuales van sobre los puntos frontales guiados por las posiciones de los electrodos establecidos en el sistema 10-20, este consiste en la colocación de un sistema de 2 electrodos separados pre-definido por el ensamblaje de electrodos. 
 
