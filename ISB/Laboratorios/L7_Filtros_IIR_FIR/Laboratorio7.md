@@ -99,7 +99,7 @@ También conocidos como  filtros digitales con respuesta al impulso infinito (II
 | Campo | Señal cruda | Filtro IIR | Filtro FIR |
 | :---         |     :---:      |      :---:      | :---         |
 | Reposo         |![reposo_or](https://user-images.githubusercontent.com/89672526/236318687-852b219c-4111-4cb6-b634-9154aa398fe0.png)| ![reposo_iir](https://user-images.githubusercontent.com/89672526/236318794-c0c4b7b9-d659-4788-bf3e-3a68378131b5.png)| ![reposo_fir](https://user-images.githubusercontent.com/89672526/236318862-5cba3b94-56bc-4a7f-8615-7b05db3c59c3.png)|
-| Respiración aguantada |  ![resp_a_or](https://user-images.githubusercontent.com/89672526/236319812-922ac139-e057-4d36-a3af-d2d40523b021.png) |  ![resp_a_iir](https://user-images.githubusercontent.com/89672526/236319869-1fe2920a-f4e2-47e1-889a-5aa0cd21262a.png)|![resp_a_fir](https://user-images.githubusercontent.com/89672526/236319890-3464512f-c877-4073-a428-08de4799f42c.png)|
+| Respiración aguantada |  ![resp_a_or](https://user-images.githubusercontent.com/89672526/236319812-922ac139-e057-4d36-a3af-d2d40523b021.png) |  ![resp_a_iir](https://user-images.githubusercontent.com/89672526/236319869-1fe2920a-f4e2-47e1-889a-5aa0cd21262a.png)|<img width="348" alt="filtro_fir_resp_a" src="https://user-images.githubusercontent.com/89672526/236321508-5df9adff-18cd-4bc2-9c2e-da38076e22f9.png">|
 | Agitado     | ![agit_or](https://user-images.githubusercontent.com/89672526/236320171-b60b4ee6-2071-4bcb-a6b7-21699266145f.png)|![agit_iir](https://user-images.githubusercontent.com/89672526/236320236-93e3e102-f432-4adf-92dc-241c5e8ac2e4.png)|![agit_fir](https://user-images.githubusercontent.com/89672526/236320335-89a38f89-992c-4f05-b2c2-00ab0da7421a.png)|     
 
 #
