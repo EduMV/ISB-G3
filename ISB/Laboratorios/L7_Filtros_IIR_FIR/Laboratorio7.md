@@ -7,7 +7,7 @@
 #
 ## Objetivos
 * Diseñar un filtro de tipo FIR usando el dataset de ECG obtenido el laboratorio pasasdo
-* Diseñar un filtro de tipo IIR usando el dataaset de ECG obtenido el laboratorio pasado 
+* Diseñar un filtro de tipo IIR usando el dataset de ECG obtenido el laboratorio pasado 
 * Presentar una tabla resumen comparando la señal cruda con la señal filtrada  
 
 #
@@ -40,16 +40,20 @@ Además, se pueden clasificar de acuerdo a la aplicación específica que realiz
 
 ![four_major_filters](https://user-images.githubusercontent.com/89672526/236079088-30b7a022-c477-40c4-b70f-d155825426e6.jpeg)
 
-Ademmás, los filtros activos se pueden clasificar de acuerdo a su aproximación matemática de la siguiente manera [2] [3]:
+Además, los filtros activos se pueden clasificar de acuerdo a su aproximación matemática de la siguiente manera [2] [3]:
 
 a. Bessel:  tiene una respuesta más suave que otros filtros del mismo grupo. A pesar de no tener un corte abrupto en la señal, ofrece un desplazamiento de fase superior. Sin embargo, utiliza más componentes que otros filtros del grupo, lo que significa que es más complejo y costoso de implementar.
+
 b. Butterworth: Se conoce como "máximamente plano" porque presenta una respuesta monótona (sin rizado) tanto en la banda de paso como en la de paro. Es por esta razón que tiene una considerable anchura de la banda de transición
+
 c. Chebyshev: Se puede utilizar el tipo 1 o tipo 2. El primero, presenta rizado en la banda de paso y respuesta monótona en la banda de paro mientras que el segundo tipo presenta rizado en la banda de paro y respuesta monótona en la banda de paso 
+
 d. Elíptico: Presenta el mismo rizado en ambas bandas
 
 
 ![filter-response-comparison](https://user-images.githubusercontent.com/89672526/236115449-cf3dec28-1a56-4390-8139-94c76e3ea64a.png)
-*Comparación respuesta de los filtros. Extraído de Bliley technologies []*
+
+*Comparación respuesta de los filtros. Extraído de Bliley technologies [2]*
 
 
 
