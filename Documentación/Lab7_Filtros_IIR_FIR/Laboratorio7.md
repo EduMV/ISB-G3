@@ -14,7 +14,7 @@
 
 ## Tabla de contenidos
 
-1. [CONCEPTOS PREVIOS](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#entregables)
+1. [Conceptos previos](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#entregables)
 
     * [Filtros analógicos](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#fotos-de-conexi%C3%B3n-usada)
     * [Filtros digitales](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#videos-de-se%C3%B1ales-sujeto-de-prueba)
@@ -32,6 +32,12 @@
 
 
 ### Filtros analógicos
+Podemos definirlo como un filtro usado para procesos analógicos o señales de tiempo continuo. Estos se dividen en filtros pasivos y activos, dependiendo del tipo de elemento empleado para su realización [x1]
+Además, se pueden clasificar de acuerdo a la aplicación específica que realizan en los siguientes: pasa-bajas, pasa-altas,pasa-banda y rechaza-banda.
+
+![four_major_filters](https://user-images.githubusercontent.com/89672526/236079088-30b7a022-c477-40c4-b70f-d155825426e6.jpeg)
+
+El diseño de este tipo de filtros en general involucra especificaciones de frecuencia (para la bandas de paso y rechazo) y especificaciones de magnitud (atenuación máxima para la banda de paso y mínima para la de rechazo) para generar una función de transferencia de mínima fase con el orden más pequeño que reúne o excede las especificaciones. [x]
 
 ### Filtros digitales
 
@@ -39,11 +45,11 @@
 #### Filtro IIR
 #### Filtro FIR
 
-
+#
 ## Comparación IIR vs FIR
 
 
-#
+
 
 ## Tabla resumen
 ### Ploteo de la señal en OpenBCI GUI
