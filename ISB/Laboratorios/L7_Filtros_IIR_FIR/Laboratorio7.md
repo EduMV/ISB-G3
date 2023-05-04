@@ -96,7 +96,7 @@ También conocidos como  filtros digitales con respuesta al impulso infinito (II
 ## Tabla resumen
 
 
-| Campo | Señal cruda | Filtro IIR | Filtro FIR |
+| Campo | Señal cruda | Filtro IIR |  Filtro FIR  |
 | :---         |     :---:      |      :---:      | :---         |
 | Reposo         |![reposo_or](https://user-images.githubusercontent.com/89672526/236318687-852b219c-4111-4cb6-b634-9154aa398fe0.png)| ![reposo_iir](https://user-images.githubusercontent.com/89672526/236318794-c0c4b7b9-d659-4788-bf3e-3a68378131b5.png)| ![reposo_fir](https://user-images.githubusercontent.com/89672526/236318862-5cba3b94-56bc-4a7f-8615-7b05db3c59c3.png)|
 | Respiración aguantada |  ![resp_a_or](https://user-images.githubusercontent.com/89672526/236319812-922ac139-e057-4d36-a3af-d2d40523b021.png) |  ![resp_a_iir](https://user-images.githubusercontent.com/89672526/236319869-1fe2920a-f4e2-47e1-889a-5aa0cd21262a.png)|![WhatsApp Image 2023-05-04 at 15 42 02](https://user-images.githubusercontent.com/89672526/236324666-92dd8640-aedf-4b4f-ab7e-8d4a9e5e598a.jpeg)|
