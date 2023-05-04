@@ -16,13 +16,13 @@
 
 1. [Conceptos previos](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/Lab7_Filtros_IIR_FIR/Laboratorio7.md#conceptos-previos)
 
-    * [Filtros analógicos](https://github.com/EduMV/ISB-G3/edit/main/Documentaci%C3%B3n/Lab7_Filtros_IIR_FIR/Laboratorio7.md#filtros-anal%C3%B3gicos)
-    * [Filtros digitales](https://github.com/EduMV/ISB-G3/edit/main/Documentaci%C3%B3n/Lab7_Filtros_IIR_FIR/Laboratorio7.md#filtros-digitales)
-      * [Filtros FIR](https://github.com/EduMV/ISB-G3/edit/main/Documentaci%C3%B3n/Lab7_Filtros_IIR_FIR/Laboratorio7.md#filtro-fir)
-      * [Filtros IIR](https://github.com/EduMV/ISB-G3/edit/main/Documentaci%C3%B3n/Lab7_Filtros_IIR_FIR/Laboratorio7.md#filtro-iir)
+    * [Filtros analógicos](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/Lab7_Filtros_IIR_FIR/Laboratorio7.md#filtros-anal%C3%B3gicos)
+    * [Filtros digitales](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/Lab7_Filtros_IIR_FIR/Laboratorio7.md#filtros-digitales)
+      * [Filtros FIR](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/Lab7_Filtros_IIR_FIR/Laboratorio7.md#filtro-fir)
+      * [Filtros IIR](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/Lab7_Filtros_IIR_FIR/Laboratorio7.md#filtro-iir)
 
  
- 2. [Comparación: FIR vs IIR](https://github.com/EduMV/ISB-G3/edit/main/Documentaci%C3%B3n/Lab7_Filtros_IIR_FIR/Laboratorio7.md#comparaci%C3%B3n-iir-vs-fir)
+ 2. [Comparación: FIR vs IIR](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/Lab7_Filtros_IIR_FIR/Laboratorio7.md#comparaci%C3%B3n-iir-vs-fir)
  
  3. [Tabla resumen](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#referencias) 
 
