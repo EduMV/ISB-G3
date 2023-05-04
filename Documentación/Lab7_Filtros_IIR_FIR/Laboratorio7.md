@@ -14,15 +14,15 @@
 
 ## Tabla de contenidos
 
-1. [Conceptos previos](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#entregables)
+1. [Conceptos previos](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/Lab7_Filtros_IIR_FIR/Laboratorio7.md#conceptos-previos)
 
-    * [Filtros analógicos](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#fotos-de-conexi%C3%B3n-usada)
-    * [Filtros digitales](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#videos-de-se%C3%B1ales-sujeto-de-prueba)
-      * [Filtros IIR](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#archivos)
-      * [Filtros FIR](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#ploteo-de-la-se%C3%B1al-en-openbci-gui)
+    * [Filtros analógicos](https://github.com/EduMV/ISB-G3/edit/main/Documentaci%C3%B3n/Lab7_Filtros_IIR_FIR/Laboratorio7.md#filtros-anal%C3%B3gicos)
+    * [Filtros digitales](https://github.com/EduMV/ISB-G3/edit/main/Documentaci%C3%B3n/Lab7_Filtros_IIR_FIR/Laboratorio7.md#filtros-digitales)
+      * [Filtros FIR](https://github.com/EduMV/ISB-G3/edit/main/Documentaci%C3%B3n/Lab7_Filtros_IIR_FIR/Laboratorio7.md#filtro-fir)
+      * [Filtros IIR](https://github.com/EduMV/ISB-G3/edit/main/Documentaci%C3%B3n/Lab7_Filtros_IIR_FIR/Laboratorio7.md#filtro-iir)
 
  
- 2. [Comparación: IIR vs FIR](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#bitalino)
+ 2. [Comparación: FIR vs IIR](https://github.com/EduMV/ISB-G3/edit/main/Documentaci%C3%B3n/Lab7_Filtros_IIR_FIR/Laboratorio7.md#comparaci%C3%B3n-iir-vs-fir)
  
  3. [Tabla resumen](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L5_EEG/Laboratorio5.md#referencias) 
 
@@ -47,21 +47,18 @@ Mientras que los filtros analógicos se representan matemáticamente mediante ec
 Se clasifican en filtros de respuesta al impulso infinita (IIR) y filtros de respuesta al impulso finita (FIR). [y]
 
 
-#### Filtro IIR
-
-También conocidos como  filtros digitales con respuesta al impulso infinito (IIR), producen una respuesta de impulso infinito de un sistema dinámico. Estos filtros son recursivos, ya que la salida no solo depende de la entrada actual, sino de valores pasados de la salida (filtros con retroalimentación). [y] Por ello, son utilizados en sistemas que requieren una respuesta infinita como, por ejemplo, en el procesamiento de señales de audio [x3]
-
-
-![structure-of-IIR-filter](https://user-images.githubusercontent.com/89672526/236084195-e633ec51-9a22-43ff-b0cc-406a6d73c685.jpg)
-
-
-
 #### Filtro FIR
 
 Definido como filtro digital que produce una respuesta finita al impulso de un sistema dinámico. Se denomina FIR o “respuesta finita al impulso” porque la respuesta se fija en cero en un tiempo finito. Además, estos filtros no tienen retroalimentación lo que significa que solo trabajan con valores de entrada del pasado y del presente, por tanto, la salida es la suma de una cantidad finita de muestras de los valores de entrada, lo que lo hace altamente estables ya que evita la posibilidad de de oscilaciones en la salida. [x3]
 
 ![structure-of-FIR-filter](https://user-images.githubusercontent.com/89672526/236084136-94ee7cd8-3965-4c4c-bbaa-5190511e978b.jpg)
 
+#### Filtro IIR
+
+También conocidos como  filtros digitales con respuesta al impulso infinito (IIR), producen una respuesta de impulso infinito de un sistema dinámico. Estos filtros son recursivos, ya que la salida no solo depende de la entrada actual, sino de valores pasados de la salida (filtros con retroalimentación). [y] Por ello, son utilizados en sistemas que requieren una respuesta infinita como, por ejemplo, en el procesamiento de señales de audio [x3]
+
+
+![structure-of-IIR-filter](https://user-images.githubusercontent.com/89672526/236084195-e633ec51-9a22-43ff-b0cc-406a6d73c685.jpg)
 
 
 #
