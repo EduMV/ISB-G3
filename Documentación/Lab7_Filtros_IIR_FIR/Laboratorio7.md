@@ -75,10 +75,11 @@ También conocidos como  filtros digitales con respuesta al impulso infinito (II
 
 *Elaboración propia. Adaptado de: Circuit Globe [5]*
 
+#
 ## Tabla resumen
 
 
-#
+
 ## Referencias
 
 [1] “INTRODUCCIÓN A FILTROS ANALÓGICOS CAPÍTULO 1.” Available: http://catarina.udlap.mx/u_dl_a/tales/documentos/lem/torres_d_ld/capitulo1.pdf
