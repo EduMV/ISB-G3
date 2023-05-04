@@ -56,7 +56,8 @@ Se clasifican en filtros de respuesta al impulso infinita (IIR) y filtros de res
 Definido como filtro digital que produce una respuesta finita al impulso de un sistema dinámico. Se denomina FIR o “respuesta finita al impulso” porque la respuesta se fija en cero en un tiempo finito. Además, estos filtros no tienen retroalimentación lo que significa que solo trabajan con valores de entrada del pasado y del presente, por tanto, la salida es la suma de una cantidad finita de muestras de los valores de entrada, lo que lo hace altamente estables ya que evita la posibilidad de de oscilaciones en la salida. [5]
 
 ![structure-of-FIR-filter](https://user-images.githubusercontent.com/89672526/236084136-94ee7cd8-3965-4c4c-bbaa-5190511e978b.jpg)
-*Extraído de Circuit Globe [5]
+
+*Extraído de Circuit Globe [5]*
 
 #### Filtro IIR
 
@@ -64,13 +65,15 @@ También conocidos como  filtros digitales con respuesta al impulso infinito (II
 
 
 ![structure-of-IIR-filter](https://user-images.githubusercontent.com/89672526/236084195-e633ec51-9a22-43ff-b0cc-406a6d73c685.jpg)
-*Extraído de Circuit Globe [5]
+
+*Extraído de Circuit Globe [5]*
 
 #
 ## Comparación IIR vs FIR
 
 <img width="781" alt="cuadro_comparativo" src="https://user-images.githubusercontent.com/89672526/236084473-6c2f9ab5-c446-46f4-bd53-37f105c2d050.png">
-*Elaboración propia. Adaptado de: Circuit Globe [5]
+
+*Elaboración propia. Adaptado de: Circuit Globe [5]*
 
 ## Tabla resumen
 
