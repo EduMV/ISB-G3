@@ -1,5 +1,6 @@
-![logo_upch](https://github.com/EduMV/ISB-G3/assets/101833633/b79b43b0-1b92-4380-a388-ca8bd0e8586c)
-
+<img src="https://github.com/EduMV/ISB-G3/assets/101833633/b79b43b0-1b92-4380-a388-ca8bd0e8586c"
+     alt=[logo_upch] height="100">
+     
 # 📈📉 Introducción a Señales Biomédicas - Grupo 3
 
 ## Tabla de contenidos:
