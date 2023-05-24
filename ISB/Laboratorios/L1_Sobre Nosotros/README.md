@@ -1,7 +1,7 @@
 ## Tabla de contenidos:
-* [Nosotros](https://github.com/EduMV/ISB-G3#nosotros)
-* [Integrantes](https://github.com/EduMV/ISB-G3#integrantes)
-* [Foto grupal](https://github.com/EduMV/ISB-G3#foto-grupal)
+* [Nosotros](https://github.com/EduMV/ISB-G3/tree/main/ISB/Laboratorios/L1_Sobre%20Nosotros#nosotros)
+* [Integrantes](https://github.com/EduMV/ISB-G3/tree/main/ISB/Laboratorios/L1_Sobre%20Nosotros#integrantes)
+* [Foto grupal](https://github.com/EduMV/ISB-G3/tree/main/ISB/Laboratorios/L1_Sobre%20Nosotros#foto-grupal)
 
 
 # 
@@ -40,5 +40,5 @@
 
 # 
 ### Foto grupal
-
-<img src="foto_grupal.jpeg" alt= “logo2” height="450">
+<img src="https://github.com/EduMV/ISB-G3/assets/101833633/2d25f4c3-e912-4364-abed-8aba388f2658"
+     alt=[foto_grupal] height="400">
