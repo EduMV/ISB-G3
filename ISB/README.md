@@ -1,5 +1,4 @@
-
-<img src="https://www.cayetano.edu.pe/cayetano/images/2018/Logo_Oficial.png" alt= “logo1” height="100">
+![logo_upch](https://github.com/EduMV/ISB-G3/assets/101833633/b79b43b0-1b92-4380-a388-ca8bd0e8586c)
 
 # 📈📉 Introducción a Señales Biomédicas - Grupo 3
 
