@@ -4,11 +4,10 @@
 # 📈📉 Introducción a Señales Biomédicas - Grupo 3
 
 ## Tabla de contenidos:
-* [Señales Biomédicas](https://github.com/EduMV/ISB-G3#se%C3%B1ales-biom%C3%A9dicas)
-* [Recursos](https://github.com/EduMV/ISB-G3#recursos)
-* [Temática del proyecto](https://github.com/EduMV/ISB-G3#tem%C3%A1tica-del-proyecto)
-* [Curso de Introducción a Señales Biomédicas](https://github.com/EduMV/ISB-G3#curso-de-introducci%C3%B3n-a-se%C3%B1ales-biom%C3%A9dicas)
-* [Docentes del curso](https://github.com/EduMV/ISB-G3#docentes-del-curso)
+* [Señales Biomédicas](https://github.com/EduMV/ISB-G3/blob/main/ISB/README.md#se%C3%B1ales-biom%C3%A9dicas)
+* [Recursos](https://github.com/EduMV/ISB-G3/blob/main/ISB/README.md#recursos)
+* [Curso de Introducción a Señales Biomédicas](https://github.com/EduMV/ISB-G3/blob/main/ISB/README.md#curso-de-introducci%C3%B3n-a-se%C3%B1ales-biom%C3%A9dicas)
+* [Docentes del curso](https://github.com/EduMV/ISB-G3/blob/main/ISB/README.md#docentes-del-curso)
 
 # 
 ### Señales Biomédicas
@@ -23,12 +22,6 @@
 | <p align="justify"> *Ultracortex "Mark IV" EEG Headset* es un dispositivo portátil que se coloca en la cabeza para medir la actividad eléctrica del cerebro y permitir la monitorización y análisis de las ondas cerebrales en tiempo real.</p>| <img src="https://docs.openbci.com/assets/images/UCM4-Product-2-28967dab0bd940f3b3fe67d2c7d9fcdb.JPG" alt= “logo1” height="200" width="400"> |
 | <p align="justify"> *Fluke ProSim 4 Vital Signs Patient Simulator* es un simulador de paciente que imita los signos vitales del paciente, como la presión arterial, la frecuencia cardíaca y la respiración, para ayudar en el entrenamiento y prueba de equipos médicos.</p>| <img src="https://www.flukebiomedical.com/sites/default/files/styles/slideshow_image/public/prosim4front_0.png" alt= “logo1” height="200" width="400">|
 | <p align="justify"> *BITalino* es un kit de herramientas de prototipado rápido para proyectos de salud y bienestar personal. Incluye sensores inalámbricos y una plataforma de software para adquirir, procesar y visualizar datos biomédicos.</p>| <img src="http://cdn.shopify.com/s/files/1/0595/1068/5887/products/BITalino-Board.1.jpg?v=1646224819" alt= “logo1” height="200" width="400">|
-
-#
-
-### Temática del proyecto
-#### *Analizando señales de electroencefalografía (EEG)*
-<p align="justify">Este proyecto tiene como objetivo crear un sistema que recolecte, procese y analice señales cerebrales utilizando tecnología de electroencefalografía (EEG). Con esta herramienta, podremos medir la actividad eléctrica en el cerebro y procesarla para obtener información valiosa sobre el funcionamiento cognitivo y emocional de una persona.</p>
 
 # 
 
