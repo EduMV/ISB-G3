@@ -1,7 +1,7 @@
 <img src="https://github.com/EduMV/ISB-G3/assets/101833633/b79b43b0-1b92-4380-a388-ca8bd0e8586c"
      alt=[logo_upch] height="100">
      
-# Evaluación de la Actividad en Grupos Musculares Específicos durante el Uso de Instrumentos Laparoscópicos: Un Estudio de Electromiografía
+# Evaluación de la Actividad en Grupos Musculares Específicos durante el Uso de Instrumentos Laparoscópicos
 
 ## Tabla de contenidos:
 * [Problemática](https://github.com/EduMV/ISB-G3/blob/main/ISB/README.md#recursos)
