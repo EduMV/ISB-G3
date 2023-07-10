@@ -2,8 +2,8 @@
 # Desarrollo de Hardware : Simulador para ensayos de precisión
 
 ## Tabla de contenidos:
-* [Materiales](https://github.com/EduMV/ISB-G3/blob/main/Hardware/blank#materiales)
-* [Procedimiento](https://github.com/EduMV/ISB-G3/blob/main/Hardware/blank#procedimiento)
+* [Materiales](https://github.com/EduMV/ISB-G3/blob/main/Hardware/README.md#materiales)
+* [Procedimiento](https://github.com/EduMV/ISB-G3/blob/main/Hardware/README.md#procedimiento)
 
 
 # 
