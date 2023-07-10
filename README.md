@@ -2,13 +2,14 @@
      alt=[logo_upch] height="100">
      
 # Evaluación de la Actividad en Grupos Musculares Específicos durante el Uso de Instrumentos Laparoscópicos
-
+### Evaluation of the Activity in Specific Muscle Groups during the Use of Laparoscopic Instruments
+#
+### [Sobre nosotros]()
+#
 ## Tabla de contenidos:
-* [Problemática](https://github.com/EduMV/ISB-G3/blob/main/ISB/README.md#recursos)
-* [Tipo de señal](https://github.com/EduMV/ISB-G3/blob/main/ISB/README.md#recursos)
-* [Definiciones](https://github.com/EduMV/ISB-G3/blob/main/ISB/README.md#curso-de-introducci%C3%B3n-a-se%C3%B1ales-biom%C3%A9dicas)
-* [Contexto mundial y local](https://github.com/EduMV/ISB-G3/blob/main/ISB/README.md#docentes-del-curso)
-* [Propuesta de solución](https://github.com/EduMV/ISB-G3/blob/main/ISB/README.md#curso-de-introducci%C3%B3n-a-se%C3%B1ales-biom%C3%A9dicas)
+* [Resumen]()
+* [Motivación]()
+* [Principales hallazgos]()
 
 
 # 
@@ -17,32 +18,17 @@
 
 #
 
-### Tipo de señal
+### Motivación
 
 
 # 
 
 
      
-### Definiciones
-     
-     
-     
- #
-     
-### Contexto mundial y nacional
-     
-     
-     
-#
+### Principales hallazgos
      
 
-### Propuesta de solución
-     
-     
-     
-#
-     
+
 ### Docentes del curso
 
 - Lewis de la Cruz - umbert.de.la.cruz@upch.pe
