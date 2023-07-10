@@ -14,7 +14,7 @@
 #
 
 ### Procedimiento
-1. Primero, perforamos la caja rectangular de plástico con cuatro agujeros. Los dos primeros se ubican a 15 cm de la base de la caja y los dos superiores a 20 cm de la base (
+1. Primero, perforamos la caja rectangular de plástico con cuatro agujeros. Los dos primeros se ubican a 15 cm de la base de la caja y los dos superiores a 20 cm de la base 
 
 2. Luego, tomando como referencia el artículo de [Gonzales Gonzalez.et al](https://www-sciencedirect-com.ezproxybib.pucp.edu.pe/science/article/pii/S0169814115000499?via%3Dihub), perforamos el tecnopor en 6 filas x 5 columnas. Además, realizamos un rectángulo de 20 cm de largo para el almacenamiento de los garbanzos previo y posterior a la realización de cada sub-tarea.
 
