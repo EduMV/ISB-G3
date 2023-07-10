@@ -4,12 +4,12 @@
 # Evaluación de la Actividad en Grupos Musculares Específicos durante el Uso de Instrumentos Laparoscópicos
 ### Evaluation of the Activity in Specific Muscle Groups during the Use of Laparoscopic Instruments
 #
-### [Sobre nosotros]()
+### [Sobre nosotros](https://github.com/EduMV/ISB-G3/blob/main/ISB/Laboratorios/L1_Sobre%20Nosotros/README.md)
 #
 ## Tabla de contenidos:
-* [Resumen]()
-* [Motivación]()
-* [Principales hallazgos]()
+* [Resumen](https://github.com/EduMV/ISB-G3/blob/main/README.md#resumen)
+* [Motivación](https://github.com/EduMV/ISB-G3/blob/main/README.md#motivaci%C3%B3n)
+* [Principales hallazgos](https://github.com/EduMV/ISB-G3/blob/main/README.md#principales-hallazgos)
 
 
 # 
